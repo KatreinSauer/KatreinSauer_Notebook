@@ -38,4 +38,4 @@ Data we have the following datasets measured at BESSY (MuSpot):
 
 
 next step:
-a nice Debye ring and Intensity over q - spectrum should be created. The two branches are:
+a nice Debye ring and Intensity over q - spectrum should be created. 
