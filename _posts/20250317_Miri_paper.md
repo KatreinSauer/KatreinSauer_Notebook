@@ -5,7 +5,7 @@ We have two brances of black coral species:
         1) Antipathes 
         2) Sticopathes
 
-Data we have measured at BESSY MuSpot:
+Data we have the following datasets measured at BESSY (MuSpot):
 
 - 2020-10-21_set05_corundum_left_right
 - 2020-10-21_set07_align_BC_long_SPS3_AlO3
