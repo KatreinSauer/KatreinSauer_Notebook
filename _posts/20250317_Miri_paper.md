@@ -7,9 +7,9 @@ We have two brances of black coral species:
 
 Data we have measured at BESSY MuSpot:
 
-2020-10-21_set05_corundum_left_right
-2020-10-21_set07_align_BC_long_SPS3_AlO3
-2020-10-22_set09_BC_150um_single_Sticho_longi_100x33
+1) 2020-10-21_set05_corundum_left_right
+2) 2020-10-21_set07_align_BC_long_SPS3_AlO3
+3) 2020-10-22_set09_BC_150um_single_Sticho_longi_100x33
 2020-10-22_set09a_BC_150um_single_Sticho_longi_100x22
 2020-10-22_set10_corundum_left_right_4x4
 2020-10-22_set13_BCB3_align
