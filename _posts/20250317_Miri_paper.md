@@ -1,3 +1,5 @@
+17th March 2025
+
 BESSY XRD DATA from October/November 2020 which show chitin (Poli paper)
 
 We have two brances of black coral species: 
@@ -5,7 +7,7 @@ We have two brances of black coral species:
         1) Antipathes 
         2) Sticopathes
 
-Data we have the following datasets measured at BESSY (MuSpot):
+Data we have the following raw datasets as h5 files measured at BESSY (MuSpot):
 
 - 2020-10-21_set05_corundum_left_right
 - 2020-10-21_set07_align_BC_long_SPS3_AlO3
@@ -36,6 +38,26 @@ Data we have the following datasets measured at BESSY (MuSpot):
 - 2020-10-28_set59_Sticho_wet10h_dry_360deg
 - 2020-10-28_set63_Sticho_longitudinal_slice_4_160_um_128_344
 
+
+
+18th March 2025
+
+From these datasets I transformed set18, set19a, set23, set9a from h5 into tiff.   
+
+for Sample 2020-10-23_set19a_Anti_Xsec_16x18, the following images could be nice Debye rings (but it is very weak/ there is not the signal (chitin) I am looking for):
+
+- 110
+- 126
+- 183
+
+for Sample 2020-10-23_set18_Sticho_Xsec_64x60, the following images could be nice Debye rings (but it is very weak/ there is not the signal (chitin) I am looking for):
+
+- 205-208
+- 261
+- 268-270
+- 281
+
+Sample 2020-10-22_set09a_BC_150um_single_Sticho_longi_100x22 looks promising:
 
 next step:
 a nice Debye ring and Intensity over q - spectrum should be created. 
