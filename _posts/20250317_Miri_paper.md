@@ -44,20 +44,35 @@ Data we have the following raw datasets as h5 files measured at BESSY (MuSpot):
 
 From these datasets I transformed set18, set19a, set23, set9a from h5 into tiff.   
 
-for Sample 2020-10-23_set19a_Anti_Xsec_16x18, the following images could be nice Debye rings (but it is very weak/ there is not the signal (chitin) I am looking for):
+for Sample 2020-10-23_set19a_Anti_Xsec_16x18, the following images could be nice Debye rings (but it is very weak/ there is not the signal (chitin) I am looking for). The following are the # of Debye rings (tiff) looking into with Fiji:
 
 - 110
 - 126
 - 183
 
-for Sample 2020-10-23_set18_Sticho_Xsec_64x60, the following images could be nice Debye rings (but it is very weak/ there is not the signal (chitin) I am looking for):
+for Sample 2020-10-23_set18_Sticho_Xsec_64x60, the following images could be nice Debye rings (but it is very weak/ there is not the signal (chitin) I am looking for). The following are the # of Debye rings (tiff) looking into with Fiji::
 
 - 205-208
 - 261
 - 268-270
 - 281
 
-Sample 2020-10-22_set09a_BC_150um_single_Sticho_longi_100x22 looks promising:
+Sample 2020-10-22_set09a_BC_150um_single_Sticho_longi_100x22 looks promising. The following are the # of Debye rings (tiff) looking into with Fiji::
 
+- 47
+- 66
+- 161-186 (here are the chitin peaks!!!)
+- 489-... super weak
+- 560-566 (good peaks)
+- 658-670 (peaks without chitin close to the beamstop, but strong debye rings)
+- 1055-1064 (only debye rings)
+- 1133-1134
+- 1139
+- 1167-1169
+- 1234
+- 1560 - 1571
+
+
+  
 next step:
 a nice Debye ring and Intensity over q - spectrum should be created. 
