@@ -1,6 +1,6 @@
 17th March 2025
 
-BESSY XRD DATA from October/November 2020 which show chitin (Poli paper)
+BESSY XRD DATA from October/November 2020 which show only the black corals. Within the same measurement are also Stylophora pistillata included. We want here to look into and find chitin (Poli paper)
 
 We have two brances of black coral species: 
 
