@@ -7,7 +7,7 @@ We have two brances of black coral species:
         1) Antipathes 
         2) Sticopathes
 
-Data we have the following raw datasets as h5 files measured at BESSY (MuSpot):
+We have the following raw datasets as h5 files measured at BESSY (MuSpot):
 
 - 2020-10-21_set05_corundum_left_right
 - 2020-10-21_set07_align_BC_long_SPS3_AlO3
@@ -42,16 +42,11 @@ Data we have the following raw datasets as h5 files measured at BESSY (MuSpot):
 #
 18th March 2025
 
-From these datasets I transformed set18, set19a, set23, set9a from h5 into tiff.   
+From all these BESSY datasets I transformed set18, set19a and set23, set9a and set53a from h5 into tiff.   
 
-for Sample 2020-10-23_set19a_Anti_Xsec_16x18, the following images could be nice Debye rings (but it is very weak/ there is not the signal (chitin) I am looking for). The following are the # of Debye rings (tiff) looking into with Fiji:
+        1) Sticopathes
 
-- 110
-- 126
-- 183
-
-#
-for Sample 2020-10-23_set18_Sticho_Xsec_64x60, the following images could be nice Debye rings (but it is very weak/ there is not the signal (chitin) I am looking for). The following are the # of Debye rings (tiff) looking into with Fiji::
+For Sample 2020-10-23_set18_Sticho_Xsec_64x60, here are no debye rings in this entire dataset. In the following image numbers there appears some background rings:
 
 - 205-208
 - 261
@@ -82,7 +77,42 @@ The following image is #666:
 
 ![2020-10-22_set09a_BC_150um_single_Sticho_longi_100x22_000001_no666](https://github.com/user-attachments/assets/572874b0-a92f-4a47-bf5e-03df85f6d15a)
 
+        2) Antipahtes
 
 
-next step:
-a nice Debye ring and Intensity over q - spectrum should be created. 
+For Sample 2020-10-23_set19a_Anti_Xsec_16x18, here are no debye rings in this entire dataset. In the following image numbers there appears some background rings:
+
+- 110
+- 126
+- 183
+
+#
+
+Sample 2020-10-27_set53a_Anti_DRY_16x16x13 has 8 different sets of measurement which have to be separated in order to transfer them from h5 into tiff. Although there are Debye rings all over the show, the intensity is weak and Debye rings need to be summed up. This is a dry Sticopathes sample, the former sample was not prepared like that. The best immage from this dataset I could get is the follwing (#XXX): 
+
+- 1st line: 8-22
+- 2nd line: 8-23
+- 3rd line: 9-24
+- 4th line: 9-24
+- 5th line: 9-24 
+- ...
+- 8th line: 10 - 13 are the strongest peaks of all
+
+The following image is a single image, smothed (with Fiji), line 4, image number 23
+
+![2020-10-27_set53a_Anti_DRY_16x16x13_000004_data_000023_00002_line4_no23](https://github.com/user-attachments/assets/8c6c7169-a877-4950-bc91-317712b8a5da)
+
+The following image is a MEDIAN over 4 images, smoothed (with Fiji), line 8, image numbers 10-13
+
+![2020-10-27_set53a_Anti_DRY_MED_line8_no10_to_no13](https://github.com/user-attachments/assets/5a2f4efb-3a9f-4057-a7cb-e6154034f219)
+
+
+
+
+
+next steps:
+ Intensity over q - spectrum
+ - calibration of the spectra
+ - integration of the spectra
+ - plotting
+ - addressing peaks
