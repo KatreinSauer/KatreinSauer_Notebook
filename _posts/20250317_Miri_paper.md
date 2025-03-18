@@ -39,7 +39,7 @@ Data we have the following raw datasets as h5 files measured at BESSY (MuSpot):
 - 2020-10-28_set63_Sticho_longitudinal_slice_4_160_um_128_344
 
 
-
+#
 18th March 2025
 
 From these datasets I transformed set18, set19a, set23, set9a from h5 into tiff.   
@@ -50,6 +50,7 @@ for Sample 2020-10-23_set19a_Anti_Xsec_16x18, the following images could be nice
 - 126
 - 183
 
+#
 for Sample 2020-10-23_set18_Sticho_Xsec_64x60, the following images could be nice Debye rings (but it is very weak/ there is not the signal (chitin) I am looking for). The following are the # of Debye rings (tiff) looking into with Fiji::
 
 - 205-208
@@ -57,6 +58,7 @@ for Sample 2020-10-23_set18_Sticho_Xsec_64x60, the following images could be nic
 - 268-270
 - 281
 
+#
 Sample 2020-10-22_set09a_BC_150um_single_Sticho_longi_100x22 looks promising. The following are the # of Debye rings (tiff) looking into with Fiji::
 
 - 47
@@ -72,7 +74,15 @@ Sample 2020-10-22_set09a_BC_150um_single_Sticho_longi_100x22 looks promising. Th
 - 1234
 - 1560 - 1571
 
+The following image is #564:
 
-  
+![2020-10-22_set09a_BC_150um_single_Sticho_longi_100x22_000001-1](https://github.com/user-attachments/assets/b69476f5-e07e-4f21-a156-126b7b41abce)
+
+The following image is #666:
+
+![2020-10-22_set09a_BC_150um_single_Sticho_longi_100x22_000001_no666](https://github.com/user-attachments/assets/572874b0-a92f-4a47-bf5e-03df85f6d15a)
+
+
+
 next step:
 a nice Debye ring and Intensity over q - spectrum should be created. 
