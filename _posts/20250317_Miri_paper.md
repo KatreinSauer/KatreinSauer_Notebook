@@ -2,9 +2,9 @@
 
 BESSY XRD DATA from October/November 2020 which show only the black corals. Within the same measurement are also Stylophora pistillata included. We want here to look into and find chitin (Poli paper)
 
-We have two brances of black coral species: 
+We have two brances of black coral species:
 
-        1) Antipathes 
+        1) Antipathes
         2) Sticopathes
 
 We have the following raw datasets as h5 files measured at BESSY (MuSpot):
@@ -71,7 +71,7 @@ Sample 2020-10-22_set09a_BC_150um_single_Sticho_longi_100x22 looks promising. Th
 
 The following image is #564:
 
-![2020-10-22_set09a_BC_150um_single_Sticho_longi_100x22_000001-1](https://github.com/user-attachments/assets/b69476f5-e07e-4f21-a156-126b7b41abce)
+![2020-10-22_set09a_BC_150um_single_Sticho_longi_100x22_000001-1](Y:\Katrein\GitHub\KatreinSauer_Notebook_Mass_Lab\images\2020-10-27_set53a_Anti_DRY_16x16x13_000004_data_000023_00002_line4_no23)
 
 The following image is #666:
 
@@ -88,13 +88,13 @@ For Sample 2020-10-23_set19a_Anti_Xsec_16x18, here are no debye rings in this en
 
 #
 
-Sample 2020-10-27_set53a_Anti_DRY_16x16x13 has 8 different sets of measurement which have to be separated in order to transfer them from h5 into tiff. Although there are Debye rings all over the show, the intensity is weak and Debye rings need to be summed up. This is a dry Sticopathes sample, the former sample was not prepared like that. The best immage from this dataset I could get is the follwing (#XXX): 
+Sample 2020-10-27_set53a_Anti_DRY_16x16x13 has 8 different sets of measurement which have to be separated in order to transfer them from h5 into tiff. Although there are Debye rings all over the show, the intensity is weak and Debye rings need to be summed up. This is a dry Sticopathes sample, the former sample was not prepared like that. The best immage from this dataset I could get is the follwing (#XXX):
 
 - 1st line: 8-22
 - 2nd line: 8-23
 - 3rd line: 9-24
 - 4th line: 9-24
-- 5th line: 9-24 
+- 5th line: 9-24
 - ...
 - 8th line: 10 - 13 are the strongest peaks of all
 
