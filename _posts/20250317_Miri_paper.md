@@ -43,7 +43,7 @@ We have the following raw datasets as h5 files measured at BESSY (MuSpot):
 - 2020-10-28_set63_Sticho_longitudinal_slice_4_160_um_128_344
 
 
-#
+
 18th March 2025
 
 From all these BESSY datasets I transformed set18, set19a and set23, set9a and set53a from h5 into tiff.   
