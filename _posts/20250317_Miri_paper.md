@@ -75,7 +75,7 @@ Sample 2020-10-22_set09a_BC_150um_single_Sticho_longi_100x22 looks promising. Th
 
 The following image is #564:
 
-![2020-10-22_set09a_BC_150um_single_Sticho_longi_100x22_000001_no564](Y:\Katrein\KatreinSauer_Notebook\images\2020-10-22_set09a_BC_150um_single_Sticho_longi_100x22_000001_no564)
+![2020-10-22_set09a_BC_150um_single_Sticho_longi_100x22_000001_no564.jpg](Y:\Katrein\KatreinSauer_Notebook\images\2020-10-22_set09a_BC_150um_single_Sticho_longi_100x22_000001_no564.jpg)
 
 The following image is #666:
 
