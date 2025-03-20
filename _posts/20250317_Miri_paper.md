@@ -48,7 +48,7 @@ We have the following raw datasets as h5 files measured at BESSY (MuSpot):
 
 From all these BESSY datasets I transformed set18, set19a and set23, set9a and set53a from h5 into tiff.   
 
-      #  1) Sticopathes
+# 1) Sticopathes
 
 For Sample 2020-10-23_set18_Sticho_Xsec_64x60, here are no debye rings in this entire dataset. In the following image numbers there appears some background rings:
 
@@ -81,7 +81,7 @@ The following image is #666:
 
 ![2020-10-22_set09a_BC_150um_single_Sticho_longi_100x22_000001_no666](Y:\Katrein\KatreinSauer_Notebook\images\2020-10-22_set09a_BC_150um_single_Sticho_longi_100x22_000001_no666)
 
-      # 2) Antipahtes
+# 2) Antipahtes
 
 
 For Sample 2020-10-23_set19a_Anti_Xsec_16x18, here are no debye rings in this entire dataset. In the following image numbers there appears some background rings:
