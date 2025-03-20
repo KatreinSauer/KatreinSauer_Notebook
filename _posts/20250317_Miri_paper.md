@@ -2,7 +2,7 @@
 
 BESSY XRD DATA from October/November 2020 which show only the black corals. Within the same measurement are also Stylophora pistillata included. We want here to look into and find chitin (Poli paper)
 
-We have two brances of black coral species:
+We have two branches of black coral species:
 
         1) Antipathes
         2) Sticopathes
@@ -54,7 +54,7 @@ For Sample 2020-10-23_set18_Sticho_Xsec_64x60, here are no debye rings in this e
 - 281
 
 #
-Sample 2020-10-22_set09a_BC_150um_single_Sticho_longi_100x22 looks promising. The following are the # of Debye rings (tiff) looking into with Fiji::
+Sample 2020-10-22_set09a_BC_150um_single_Sticho_longi_100x22 looks promising. The following are the # of Debye rings (tiff) looking into with Fiji:
 
 - 47
 - 66
@@ -71,11 +71,11 @@ Sample 2020-10-22_set09a_BC_150um_single_Sticho_longi_100x22 looks promising. Th
 
 The following image is #564:
 
-![2020-10-22_set09a_BC_150um_single_Sticho_longi_100x22_000001-1](Y:\Katrein\GitHub\KatreinSauer_Notebook_Mass_Lab\images\2020-10-27_set53a_Anti_DRY_16x16x13_000004_data_000023_00002_line4_no23)
+![2020-10-22_set09a_BC_150um_single_Sticho_longi_100x22_000001_no564](Y:\Katrein\KatreinSauer_Notebook\images\2020-10-22_set09a_BC_150um_single_Sticho_longi_100x22_000001_no564)
 
 The following image is #666:
 
-![2020-10-22_set09a_BC_150um_single_Sticho_longi_100x22_000001_no666](https://github.com/user-attachments/assets/572874b0-a92f-4a47-bf5e-03df85f6d15a)
+![2020-10-22_set09a_BC_150um_single_Sticho_longi_100x22_000001_no666](Y:\Katrein\KatreinSauer_Notebook\images\2020-10-22_set09a_BC_150um_single_Sticho_longi_100x22_000001_no666)
 
         2) Antipahtes
 
@@ -100,11 +100,11 @@ Sample 2020-10-27_set53a_Anti_DRY_16x16x13 has 8 different sets of measurement w
 
 The following image is a single image, smothed (with Fiji), line 4, image number 23
 
-![2020-10-27_set53a_Anti_DRY_16x16x13_000004_data_000023_00002_line4_no23](https://github.com/user-attachments/assets/8c6c7169-a877-4950-bc91-317712b8a5da)
+![2020-10-27_set53a_Anti_DRY_16x16x13_000004_data_000023_00002_line4_no23](Y:\Katrein\KatreinSauer_Notebook\images\2020-10-27_set53a_Anti_DRY_16x16x13_000004_data_000023_00002_line4_no23)
 
 The following image is a MEDIAN over 4 images, smoothed (with Fiji), line 8, image numbers 10-13
 
-![2020-10-27_set53a_Anti_DRY_MED_line8_no10_to_no13](https://github.com/user-attachments/assets/5a2f4efb-3a9f-4057-a7cb-e6154034f219)
+![2020-10-27_set53a_Anti_DRY_MED_line8_no10_to_no13](Y:\Katrein\KatreinSauer_Notebook\images\2020-10-27_set53a_Anti_DRY_MED_line8_no10_to_no13)
 
 
 
