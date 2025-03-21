@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-Katrein Sauer
+_Katrein Sauer_
 
 ### More Information
 
