@@ -5,16 +5,14 @@ category: [ Indentation ]
 tags: [ antpathes, sticopathes, chitin, mechnical testing ]
 ---
 
-17th March 2025
-
-BESSY XRD DATA from October/November 2020
+## Bessy XRD data from October/November 2020
 
 These data show only the black corals. Within the same measurement are also Stylophora pistillata datasets included. We want here to look into and find chitin (Poli paper)
 
 We have two branches of black coral species:
 
-        1) Antipathes
-        2) Sticopathes
+1. Antipathes
+2. Sticopathes
 
 We have the following raw datasets as h5 files measured at BESSY (MuSpot):
 
@@ -46,10 +44,6 @@ We have the following raw datasets as h5 files measured at BESSY (MuSpot):
 - 2020-10-27_set58_diffTomo_Sticho_WET_3D_128x9x5
 - 2020-10-28_set59_Sticho_wet10h_dry_360deg
 - 2020-10-28_set63_Sticho_longitudinal_slice_4_160_um_128_344
-
-
-
-18th March 2025
 
 From all these BESSY datasets I transformed set18, set19a and set23, set9a and set53a from h5 into tiff.   
 
