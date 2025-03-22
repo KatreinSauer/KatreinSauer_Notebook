@@ -76,11 +76,11 @@ Sample 2020-10-22_set09a_BC_150um_single_Sticho_longi_100x22 looks promising. Th
 
 The following image is #564:
 
-![2020-10-22_set09a_BC_150um_single_Sticho_longi_100x22_000001_no564.jpg](Y:\Katrein\KatreinSauer_Notebook\images\2020-10-22_set09a_BC_150um_single_Sticho_longi_100x22_000001_no564)
+![2020-10-22_set09a_BC_150um_single_Sticho_longi_100x22_000001_no564]({{site.baseurl}}/images/2020-10-22_set09a_BC_150um_single_Sticho_longi_100x22_000001_no564.png)
 
 The following image is #666:
 
-![2020-10-22_set09a_BC_150um_single_Sticho_longi_100x22_000001_no666](Y:\Katrein\KatreinSauer_Notebook\images\2020-10-22_set09a_BC_150um_single_Sticho_longi_100x22_000001_no666)
+![2020-10-22_set09a_BC_150um_single_Sticho_longi_100x22_000001_no666]({{site.baseurl}}/images/2020-10-22_set09a_BC_150um_single_Sticho_longi_100x22_000001_no666.png)
 
 # 2) Antipahtes
 
