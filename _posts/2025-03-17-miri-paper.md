@@ -109,7 +109,7 @@ The following image is a single image, smothed (with Fiji), line 4, image number
 
 The following image is a MEDIAN over 4 images, smoothed (with Fiji), line 8, image numbers 10-13
 
-![2020-10-27_set53a_Anti_DRY_MED_line8_no10_to_no13]({{site.baseurl}}/images/2020-10-27_set53a_Anti_DRY_MED_line8_no10_to_no13-png)
+![2020-10-27_set53a_Anti_DRY_MED_line8_no10_to_no13]({{site.baseurl}}/images/2020-10-27_set53a_Anti_DRY_MED_line8_no10_to_no13.png)
 
 
 
