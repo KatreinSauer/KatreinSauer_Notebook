@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Black corals
-category: [ Indentation ]
-tags: [ antpathes, sticopathes, chitin, mechnical testing ]
+title: Stony Corals
+category: [ XRD, XRF, Raman ]
+tags: [ Stylophora Pistillata ]
 ---
 
 This post shows X-ray diffraction (XRD) data on stony corals
