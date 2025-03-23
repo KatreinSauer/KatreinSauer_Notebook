@@ -5,6 +5,6 @@ category: [ XRD, XRF, Raman ]
 tags: [ Stylophora Pistillata ]
 ---
 
-This post is about Synchrotron based diffraction, fluorescence and raman data on Stylophora pistillata.
+This post is about Synchrotron based XRD, XRF, Raman data on Stylophora Pistillata
 
-## X-ray diffraction data on stony corals
+## X-ray diffraction and fluorescence data on stony corals
