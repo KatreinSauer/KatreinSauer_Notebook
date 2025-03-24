@@ -7,7 +7,7 @@ _Katrein Sauer_
 
 ### More Information
 
-[Mass Lab Website](https://sites.google.com/marsci.haifa.ac.il/masslab/home?authuser=0/)  
+[about me](https://sites.google.com/marsci.haifa.ac.il/masslab/team/katrein-sauer?authuser=1)  
 
 ### Contact
 
