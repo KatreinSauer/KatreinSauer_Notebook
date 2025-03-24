@@ -19,4 +19,4 @@ Tel - Out of Univ: +972-4-8288977
 
 Room: 269, Multipurpose Building
 
-Email: tmass@univ.haifa.ac.il
+Email: ksauer@campus.haifa.ac.il
