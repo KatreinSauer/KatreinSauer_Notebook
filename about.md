@@ -11,7 +11,11 @@ _Katrein Sauer_
 
 ### Contact
 
-Coral Biomineralization in a changing ocean
+Coral Biomineralization & Physiology
+
+@ Mass Lab
+
+University of Haifa
 
 Room: Multipurpose Building, dungeon office
 
