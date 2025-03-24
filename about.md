@@ -11,12 +11,12 @@ _Katrein Sauer_
 
 ### Contact
 
-Coral Biomineralization and Physiology 
+Coral Biomineralization and Physiology
 
 Tel - Inside Univ: 8977
 
 Tel - Out of Univ: +972-4-8288977
 
-Room: 269, Multipurpose Building
+Room: -269, Multipurpose Building
 
 Email: ksauer@campus.haifa.ac.il
