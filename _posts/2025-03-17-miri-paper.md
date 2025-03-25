@@ -112,6 +112,8 @@ The following image is a MEDIAN over 4 images, smoothed (with Fiji), line 8, ima
 ![2020-10-27_set53a_Anti_DRY_MED_line8_no10_to_no13]({{site.baseurl}}/images/2020-10-27_set53a_Anti_DRY_MED_line8_no10_to_no13.png)
 
 
+### Calibration with XRDUA in order to find sample detector distance (SDD):
+![XRD_calibration_for_BlackCorals_chitin]({{site.baseurl}}/images/XRD_calibration_for_BlackCorals_chitin.jpg)
 
 
 
