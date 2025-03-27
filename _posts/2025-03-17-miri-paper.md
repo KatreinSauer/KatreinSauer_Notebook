@@ -91,7 +91,6 @@ For Sample 2020-10-23_set19a_Anti_Xsec_16x18, here are no debye rings in this en
 - 126
 - 183
 
-#
 
 Sample 2020-10-27_set53a_Anti_DRY_16x16x13 has 8 different sets of measurement which have to be separated in order to transfer them from h5 into tiff. Although there are Debye rings all over the show, the intensity is weak and Debye rings need to be summed up. This is a dry Sticopathes sample, the former sample was not prepared like that. The best immage from this dataset I could get is the follwing (#XXX):
 
@@ -115,11 +114,5 @@ The following image is a MEDIAN over 4 images, smoothed (with Fiji), line 8, ima
 ### Calibration with XRDUA in order to find sample detector distance (SDD):
 ![XRD_calibration_for_BlackCorals_chitin]({{site.baseurl}}/images/XRD_calibration_for_BlackCorals_chitin.jpg)
 
-
-
-next steps:
- Intensity over q - spectrum
- - calibration of the spectra
- - integration of the spectra
- - plotting
- - addressing peaks
+### Range of azimuthal peak integration (arc)
+![XRDUA_range_arc_azim_integr]({{site.baseurl}}/images/ARC_XRDUA_settings_chitin.jpg)
