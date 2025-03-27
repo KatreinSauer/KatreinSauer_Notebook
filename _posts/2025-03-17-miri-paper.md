@@ -115,4 +115,4 @@ The following image is a MEDIAN over 4 images, smoothed (with Fiji), line 8, ima
 ![XRD_calibration_for_BlackCorals_chitin]({{site.baseurl}}/images/XRD_calibration_for_BlackCorals_chitin.jpg)
 
 ### Range of azimuthal peak integration (arc)
-![XRDUA_range_arc_azim_integr]({{site.baseurl}}/images/ARC_XRDUA_settings_chitin.jpg)
+![XRDUA_range_arc_azim_integr]({{site.baseurl}}/images/THE_arc_azimuthal_integr_range_settings.jpg)
