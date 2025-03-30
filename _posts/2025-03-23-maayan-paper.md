@@ -10,6 +10,9 @@ This post is about Synchrotron based XRD, XRF, Raman data on Stylophora Pistilla
 ## X-ray diffraction and fluorescence data on adult stony coral samples
 
 ### samples
+Samples can be found partially: \
+CBP_Lab_Data(\\tal-nas)(Z:)/**Coral1**/Maayan 
+
 Bold samples were used in the manuscript
 
 - SP2
