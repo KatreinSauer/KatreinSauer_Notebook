@@ -11,7 +11,7 @@ This post is about Synchrotron based XRD, XRF, Raman data on Stylophora Pistilla
 
 ### samples
 Samples can be found partially: \
-CBP_Lab_Data(\\tal-nas)(Z:)/**Coral1**/Maayan 
+CBP_Lab_Data(\\tal-nas)(Z:)/**Coral1**/Maayan
 
 Bold samples were used in the manuscript
 
@@ -35,3 +35,10 @@ Bold samples were used in the manuscript
 
 
 - SPS3a (lateral)
+
+### RAMAN paper figure ###
+ ## Compare with ORIGIN peak width of peak number 1086 as if peak width broadens the higher the probability of seeing ACC ##
+
+  &#8594; plot RAMAN sprectrum \
+  &#8594; background reduction \
+   &#8594; within a range of 1000 - 2000 [1\cm] peak width was determined
