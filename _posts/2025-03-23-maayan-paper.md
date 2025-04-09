@@ -37,8 +37,8 @@ Bold samples were used in the manuscript
 - SPS3a (lateral)
 
 ### RAMAN paper figure ###
- ## Compare with ORIGIN peak width of peak number 1086 as if peak width broadens the higher the probability of seeing ACC ##
+ ## Compare with ORIGIN:  peak width of peak with the highest intensity (number 1086). The peak width broadens the more the crystals (aragonite/calcite) lose the cristalinity and apear amorphous. I want to see if ACC is preesnt ##
 
   &#8594; plot RAMAN sprectrum \
   &#8594; background reduction \
-   &#8594; within a range of 1000 - 2000 [1\cm] peak width was determined
+   &#8594; within a range of 1000 - 2000 [1\cm] peak width was determined with the Voigt-function
