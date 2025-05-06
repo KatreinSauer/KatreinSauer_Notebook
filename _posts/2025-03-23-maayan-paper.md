@@ -8,6 +8,7 @@ tags: [ Stylophora Pistillata and Pocillopora Verrucosa ]
 This post is about Synchrotron based XRD, XRF, Raman data on Stylophora Pistillata
 
 ## X-ray diffraction and fluorescence data on adult stony coral samples
+## X-ray diffraction and fluorescence data on adult stony coral samples
 
 ### samples
 Samples can be found partially: \
