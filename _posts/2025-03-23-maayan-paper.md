@@ -37,6 +37,27 @@ Bold samples were used in the manuscript
 
 - SPS3a (lateral)
 
+### Figures ###
+1. Photography of corals Stillophora Pistillata \
+2. SEM image
+
+## Absorption Images ###
+3. Transmission images from Spec-files (BESSY, found wihtin one of the last columns)
+4. Transmission (T) transformed into Absorption (A):\
+  A = 1-T \
+  --> T was determined with Fiji, looking for the highest intensity value within histogram and this is defined then as "100% transmission = 1 in formula":\
+a)  100% = 593751.44 \
+As -A = T - 1 and T = our image:\
+with Fiji:\
+&#8594; click on transmission image
+&#8594; process
+&#8594; math
+&#8594; substract 593751.44
+&#8594; afterwards multiply with (-1)
+
+
+### XRD ###
+
 ### RAMAN paper figure ###
  ## Compare with ORIGIN:  peak width of peak with the highest intensity (number 1086). The peak width broadens the more the crystals (aragonite/calcite) lose the cristalinity and apear amorphous. I want to see if ACC is preesnt ##
 
