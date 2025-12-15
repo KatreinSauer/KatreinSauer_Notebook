@@ -59,4 +59,3 @@ The results will appear in the Workbook.
   &#8594; change "tolerance" to smallest number \
    &#8594; click on the arrow "fit until converged"\
     &#8594; results will be in the table
-
