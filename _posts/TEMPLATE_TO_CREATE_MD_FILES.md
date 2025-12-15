@@ -31,3 +31,4 @@ This posts shows how to easily create a new .md file.
     &#8594; Stage the marked md files or Stage All \
     &#8594; Write commit message \
     &#8594; Commit to master: Then it is updated in GitHub online \
+   &#8594; Push \
