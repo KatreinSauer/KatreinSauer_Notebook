@@ -16,7 +16,7 @@ CBP_Lab_Data(\\tal-nas)(Z:)/**Coral1**/Maayan
 
 Bold samples were used in the manuscript
 
-- SP2
+- *SP2 Stylophora Pistillata*
 - **SP3: ROI 1**
 - **SP3: ROI 2**
 
@@ -49,7 +49,8 @@ Bold samples were used in the manuscript
 a)  100% = 593751.44 \
 As -A = T - 1 and T = our image:\
 with Fiji:\
-&#8594; click on transmission image
+&#859
+4; click on transmission image
 &#8594; process
 &#8594; math
 &#8594; substract 593751.44

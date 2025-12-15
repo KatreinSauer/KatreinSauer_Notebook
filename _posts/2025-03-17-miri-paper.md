@@ -116,3 +116,26 @@ The following image is a MEDIAN over 4 images, smoothed (with Fiji), line 8, ima
 
 ### Range of azimuthal peak integration (arc)
 ![XRDUA_range_arc_azim_integr]({{site.baseurl}}/images/THE_arc_azimuthal_integr_range_settings.jpg)
+
+
+# 3) Looking for the best chitine spectra
+##  a) set9a Sticopathes
+
+18 of the strongest XRD spectra were chosen and averaged with the AVERAGE and MEDIAN Fiji function.
+(Fiji, image, stack, Z-project, median/average). Another 18 spectra measured beside the sample (i.e., the background) where chosen and also the average/median was performed. The bachground was then substracted by the AVG/MED of the Stico coral.
+
+##  b) set53a Antipathes
+45 of the strongest XRD spectra and additionally 45 background spectra (measurements beside the sample) were averaged (AVERAGE and MEDIAN) and afterwards the background was substracted from the coral spectra.
+
+## Calibration of the XRD spectra
+
+Based on a spectra published in:
+
+alpha-chitin crystal peaks using a wavelength of lamda = 1.5406 Angstroem (8.0477852 keV):
+
+- (020) 2theta = 9.39°
+- (021) 2theta = 12.67°
+- (110) 2theta = 19.72°
+- (120) 2theta = 20.73°
+- (130) 2theta = 23.33°
+- (013) 2theta = 25.90°
