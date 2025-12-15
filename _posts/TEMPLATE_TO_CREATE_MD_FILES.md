@@ -21,4 +21,13 @@ This posts shows how to easily create a new .md file.
     &#8594; Rename.md (.md you must also add!) \
     &#8594; Paste content from template \
     &#8594; Commit \
-    &#8594; Fetch locally \
+
+
+**2) In the program ATOM on windows** \
+    &#8594; Fetch  \
+    &#8594; work on .md file \
+    &#8594; save \
+    &#8594; Fetch \
+    &#8594; Stage the marked md files or Stage All \
+    &#8594; Write commit message \
+    &#8594; Commit to master: Then it is updated in GitHub online \
