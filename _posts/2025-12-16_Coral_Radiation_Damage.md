@@ -2,7 +2,7 @@
 layout: post
 title: BESSY MySpot 05-13 January 2026
 category: [ RADIATION DAMAGE ON CORALS ]
-tags: [ Pocilopora Stylophora ]
+tags: [ Pocilopora and Stylophora ]
 ---
 
 This post provides a journey through the entire experiment, including sample preparation, experimental design and data evaluation.
@@ -52,4 +52,4 @@ This post provides a journey through the entire experiment, including sample pre
     &#8594;	Wipe slice with kimwipe and solution of filtered 22g/L Na2CO3 (in fridge in front of the door of the room where Keyence is, in glass bottle with blue cap, labelled…you will see it).
 
 
-    Note: I did not do further polishing with diamond/silica/alumina paste because in my test sample this standard polishing was enough to reach <1um roughness on side B (last polished surface).    
+  Note: Not further polished with diamond/silica/alumina paste because in test sample this standard polishing was enough to reach < 1um roughness on side B (last polished surface).    
