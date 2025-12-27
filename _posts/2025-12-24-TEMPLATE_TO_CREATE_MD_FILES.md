@@ -18,7 +18,7 @@ This posts shows how to easily create a new .md file.
 **2) Go back to _posts folder** \
     &#8594; Add file (top right) \
     &#8594; Create new file \
-    &#8594; Rename.md. The filename MUST begin with a date, in the format 2025-12-24-YOURPOSTNAME.md (.md you must also add! Make sure that the character behind the date is "-" and not "_"!!!) \
+    &#8594; Rename.md. The filename MUST begin with a date, in the format 2025-12-24-YOURPOSTNAME.md (.md you must also add! Make sure that the character behind the date is "-" and not "\_"!!!) \
     &#8594; Paste content from template \
     &#8594; Commit \
 
