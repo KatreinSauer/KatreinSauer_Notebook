@@ -15,7 +15,7 @@ This post provides a journey through the entire experiment, including sample pre
     &#8594; p = Pocilopora \
     &#8594; s = Stylophora
 
-**1b) Samples we have** \
+**1b) Samples we have** 
 
 
 | Sample name  |        |       |       |       |
