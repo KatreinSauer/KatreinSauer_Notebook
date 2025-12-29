@@ -15,7 +15,9 @@ This post provides a journey through the entire experiment, including sample pre
     &#8594; p = Pocilopora \
     &#8594; s = Stylophora
 
-**1b) Samples we have prepared**
+
+
+**1a) Samples we prepared for beamtime:** 
 
 
 | Sample name  |        |       |       |       |
@@ -26,6 +28,8 @@ This post provides a journey through the entire experiment, including sample pre
 | Stylophora   | s503a  | s503b | s503c | s503d |
 | Stylophora   | s504a  | s504b | s504c | s504d |
 | Stylophora   | s505a  | 505b  | s505c | s505d |
+
+
 
 **2) Raw sample cutting** \
     &#8594; Untreated corals were cut into 1-1.5 mm thick slices: \
