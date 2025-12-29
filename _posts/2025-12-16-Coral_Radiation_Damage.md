@@ -9,11 +9,23 @@ This post provides a journey through the entire experiment, including sample pre
 
 ### Coral sample preparation: 200 micron thick embedded coral slices
 
-**1) Sample labeling** \
+**1a) Sample labeling** \
     &#8594; every sample was assigned with numbers: 500 - 505 \
     &#8594; ever sample side: a, b, c, etc. \
     &#8594; p = Pocilopora \
     &#8594; s = Stylophora
+
+**1b) Samples we have** \
+
+
+| Sample name  |        |       |       |       |
+|:-------------|:------:|------:|------:|------:|
+| Pocillopora  | p500a  | p500b | p500c |-------|
+| Pocillopora  | p501a  | p501b | p501c |-------|
+| Pocillopora  | p502a  | p502b | p502c |-------|
+| Stylophora   | s503a  | s503b | s503c | s503d |
+| Stylophora   | s504a  | s504b | s504c | s504d |
+| Stylophora   | s505a  | 505b  | s505c | s505d |
 
 **2) Raw sample cutting** \
     &#8594; Untreated corals were cut into 1-1.5 mm thick slices: \
