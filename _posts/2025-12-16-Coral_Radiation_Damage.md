@@ -11,7 +11,7 @@ This post provides a journey through the entire experiment, including sample pre
 
 **1a) Sample labeling** \
     &#8594; every sample was assigned with numbers: 500 - 505 \
-    &#8594; ever sample side: a, b, c, etc. \
+    &#8594; every sample side: a, b, c, etc. \
     &#8594; p = Pocilopora \
     &#8594; s = Stylophora
 
