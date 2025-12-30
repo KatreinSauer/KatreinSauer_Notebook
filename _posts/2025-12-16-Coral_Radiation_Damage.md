@@ -20,7 +20,7 @@ This post provides a journey through the entire experiment, including sample pre
 **1a) Samples we prepared for beamtime:**
 
 
-| Sample name  |Detailed| Sample|dimensions|       |
+| Sample name  |Detailed sample dimensions| | | |
 |:-------------|:------:|------:|------:|------:|
 | Pocillopora  | p500a  | p500b | p500c |-------|
 | Pocillopora  | p501a  | p501b | p501c |-------|
