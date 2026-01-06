@@ -22,12 +22,12 @@ This post provides a journey through the entire experiment, including sample pre
 
 | Sample name  |Detailed sample dimensions| | | |
 |:-------------|:------:|------:|------:|------:|
-| Pocillopora  | p500a (175 mu)  | p500b (340 mu) | p500c |-------|
-| Pocillopora  | p501a  | p501b | p501c |-------|
-| Pocillopora  | p502a (176 mu)  | p502b | p502c |-------|
-| Stylophora   | s503a  | s503b | s503c | s503d |
-| Stylophora   | s504a  | s504b | s504c | s504d |
-| Stylophora   | s505a  | 505b  | s505c | s505d |
+| Pocillopora  | p500a (175 mu)  | p500b (340 mu) | p500c (376 mu) |-------|
+| Pocillopora  | p501a (306 mu)  | p501b (298 mu) | p501c (180 mu) |-------|
+| Pocillopora  | p502a (176 mu)  | p502b | p502c (160 mu) |-------|
+| Stylophora   | s503a (330 mu)  | s503b (345 mu) | s503c | s503d (333 mu) |
+| Stylophora   | s504a (145 mu)  | s504b (216 mu) | s504c (343 mu)| s504d |
+| Stylophora   | s505a (314 mu)  | 505b (256 mu)  | s505c (299 mu) | s505d |
 
 
 
