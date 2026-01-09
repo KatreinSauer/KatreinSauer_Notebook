@@ -68,4 +68,12 @@ This post provides a journey through the entire experiment, including sample pre
     &#8594;	Wipe slice with kimwipe and solution of filtered 22g/L Na2CO3 (in fridge in front of the door of the room where Keyence is, in glass bottle with blue cap, labelled…you will see it).
 
 
-  Note: Not further polished with diamond/silica/alumina paste because in test sample this standard polishing was enough to reach < 1um roughness on side B (last polished surface).    
+  Note: Not further polished with diamond/silica/alumina paste because in test sample this standard polishing was enough to reach < 1um roughness on side B (last polished surface).   
+
+  **3) At the beamtime:**
+  
+  Sample s504d for XRF to look into Magnesium (PTB beamline)
+
+  Plan: \
+  Mapping 50 x 50 points, 1s exposure time to get a nice picture
+  Then shoot at the same spots, and increase the time  
