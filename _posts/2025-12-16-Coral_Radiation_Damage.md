@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BESSY MySpot 05-13 January 2026
+title: BESSY MySpot 05-11 January 2026
 category: [ RADIATION DAMAGE ON CORALS ]
 tags: [ Pocilopora and Stylophora ]
 ---
@@ -23,13 +23,13 @@ This post provides a journey through the entire experiment, including sample pre
 | Sample name  |Detailed sample dimensions| | | |
 |:-------------|:------:|------:|------:|------:|
 | Pocillopora  | p500a (175 mu)  | p500b (340 mu) | p500c (376 mu) |-------|
-| Pocillopora  | p501a (306 mu)  | p501b (298 mu) | p501c (180 mu) |-------|
-| Pocillopora  | p502a (176 mu)  | p502b | p502c (160 mu) |-------|
-| Stylophora   | s503a (330 mu)  | s503b (345 mu) | s503c (204 mu) | s503d (333 mu) |
-| Stylophora   | s504a (145 mu)  | s504b (216 mu) | s504c (343 mu)| s504d (333 mu) |
-| Stylophora   | s505a (314 mu)  | 505b (256 mu)  | s505c (299 mu) | s505d |
+| Pocillopora  | <mark>p501a (306 mu)<mark>  | p501b (298 mu) | <mark>p501c (180 mu)<mark> |-------|
+| Pocillopora  | p502a (176 mu)  | p502b | p502c (160 mu)|-------|
+| Stylophora   | <mark>s503a (330 mu)<mark>  | s503b (345 mu) | s503c (204 mu) | s503d (333 mu) |
+| Stylophora   | s504a (145 mu)  | s504b (216 mu) | s504c (343 mu)| <mark>s504d (333 mu)<mark> |
+| Stylophora   | s505a (314 mu)  | 505b (256 mu)  | s505c (299 mu) | <mark>s505d<mark> |
 
-
+The samples we measured at MySpot with XRD and XRF are marked in yellow.
 
 **2) Raw sample cutting** \
     &#8594; Untreated corals were cut into 1-1.5 mm thick slices: \
@@ -67,13 +67,59 @@ This post provides a journey through the entire experiment, including sample pre
     &#8594;	Remove samples from plastic rectangle. Use fine dentistry tools to slowly lift tape off of plastic rectangle. \
     &#8594;	Wipe slice with kimwipe and solution of filtered 22g/L Na2CO3 (in fridge in front of the door of the room where Keyence is, in glass bottle with blue cap, labelled…you will see it).
 
+Note: Not further polished with diamond/silica/alumina paste because in test sample this standard polishing was enough to reach < 1um roughness on side B (last polished surface).  
 
-  Note: Not further polished with diamond/silica/alumina paste because in test sample this standard polishing was enough to reach < 1um roughness on side B (last polished surface).   
+In the end, the polishing machine is not that precise that I cut the samples with the band saw as thin as possible. If I chose to cut the sample too thin, the band saw makes funny things and the sample just breaks. After cutting I polished with 800 grit polishing paper and polishing machine till a thickness of approximately  < 1 mmm (determined with blank eyes). Then increasing stepwise the grit of the polishing paper (see polish side A) till I am happy with the surface including thickness. At the end I measured the thickness precisely and noted the size in the table above.
 
-  **3) At the beamtime:**
-  
-  Sample s504d for XRF to look into Magnesium (PTB beamline)
 
-  Plan: \
-  Mapping 50 x 50 points, 1s exposure time to get a nice picture
-  Then shoot at the same spots, and increase the time  
+
+  **3) Before beamtime measurements:**
+
+  Samples were measured with light microscopy
+
+  **4) At the beamtime:**
+
+  Participants: Paul Zaslansky, Isabela Vitienes, Shreya Ray
+
+  Samples were measured within a diaphrame samdwiched within two yellow foils
+
+  Energy: 17 keV \
+  beamsize: 50 microns\
+  SDD:
+
+  Plan:
+  1. Mapping the entire samples with a stepsize of 100 x 100 µm
+  2. choose two ROIs with a stepsize of 50 x 50 points (=highest possible resolution defined by beamsize) with 1s or 2s exposure time
+  3. Irradiate several choosen spots over and over again, and collect XRD patterns (Debye rings) over time  
+
+  **4) Additional measurements after beamtime:**
+  Sample s504d for XRF to look into Magnesium (PTB beamline (Adrian))
+
+  **5) Evaluation**
+
+    XRF FLUORESCENCE:
+
+  Measured elements as part of coral samples:
+
+  |              |calcium (Ca) | zinc (Zn) | strontium (Sr) |
+  |:-------------|:-------:|------:|------:|
+  | channel [ROI]|  363 [1]|  [2] | [3] |
+  | Energy [keV] |  3.69   |  |  |
+
+
+Measured elements as part of background / beamline setup / contamination:
+
+
+  |                   | Iron (Fe) | Arsen (As) | Cupper (Cu) | Beam        |
+  |:------------------|:---------:|-----------:|------------:|------------:|
+  | channel (maximum) |  |   |  ||
+  | Energy [keV]      | 6.35      | 10.5       | 12.6        | 17          |
+
+
+
+    **6) Integration from Ivo**
+    Ivo only took one corundum for all the samples: NEEDS TO TAKE ALL CORUNDUMS LEFT AND RIGHT OF THE Samples
+
+    INTEGRATED "CALCITE" IMAGES ACTUALLY BELONG TO AN ARAGONITE PEAK!!!
+
+    We see already huge and very few single calcite peaks (~ 1µm-range?!)
