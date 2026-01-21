@@ -20,8 +20,8 @@ This post provides a journey through the entire experiment, including sample pre
 **1a) Samples we prepared for beamtime:**
 
 
-| Sample name  |Detailed sample dimensions |                |                            |                |
-|:-------------|:-------------------------:|:--------------:|:--------------------------:|:--------------:|
+| Sample name  | Sample dimensions |                |                            |                |
+|:------------:|:-------------------------:|:--------------:|:--------------------------:|:--------------:|
 | Pocillopora  | p500a (175 mu)            | p500b (340 mu) | p500c (376 mu)             |-------         |
 | Pocillopora  | <mark>p501a (306 mu)<mark>| p501b (298 mu) | <mark>p501c (180 mu)<mark> |-------         |
 | Pocillopora  | p502a (176 mu)            | p502b          | p502c (160 mu)             |-------         |
