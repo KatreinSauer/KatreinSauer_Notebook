@@ -116,10 +116,15 @@ Measured elements as part of background / beamline setup / contamination:
   | Energy [keV]      | 6.35      | 10.5       | 12.6        | 17          |
 
 
+    XRD X-Ray diffraction (WAXS):
 
-    **6) Integration from Ivo**
-    Ivo only took one corundum for all the samples: NEEDS TO TAKE ALL CORUNDUMS LEFT AND RIGHT OF THE Samples
+All .h5-files were transformed to .tiff for further evaluation using Fiji.
 
-    INTEGRATED "CALCITE" IMAGES ACTUALLY BELONG TO AN ARAGONITE PEAK!!!
 
-    We see already huge and very few single calcite peaks (~ 1µm-range?!)
+    **6) XRD Integration from Ivo**
+
+Ivo only took one corundum for all the samples: NEEDS TO TAKE ALL CORUNDUMS LEFT AND RIGHT OF THE Samples
+
+INTEGRATED "CALCITE" IMAGES ACTUALLY BELONG TO AN ARAGONITE PEAK!!!
+
+We see already huge and very few single calcite peaks (~ 1µm-range?!)
