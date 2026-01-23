@@ -79,9 +79,9 @@ In the end, the polishing machine is not that precise that I cut the samples wit
 
   **4) At the beamtime:**
 
-  Participants: Paul Zaslansky, Isabela Vitienes, Shreya Ray
+  Participants: Katrein Sauer, Paul Zaslansky, Isabela Vitienes, Shreya Ray
 
-  Samples were measured within a diaphrame samdwiched within two yellow foils
+  Samples were measured within a diaphrame samdwiched within two yellow Kapton films / polyimide  films (Kapton-Folie / Polyimid-Folie, Imid-group: -CO-NH-CO- --> electric isolator, thermal stable and chemical- and radiation resistant).
 
   Energy: 17 keV \
   beamsize: 50 microns\
