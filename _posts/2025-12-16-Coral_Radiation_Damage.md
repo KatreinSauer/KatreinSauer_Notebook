@@ -9,7 +9,7 @@ This post provides a journey through the entire experiment, including sample pre
 
 ### Coral sample preparation: 200 micron thick embedded coral slices
 
-**1a) Sample labeling** \
+**1) Sample labeling** \
     &#8594; every sample was assigned with numbers: 500 - 505 \
     &#8594; every sample side: a, b, c, etc. \
     &#8594; p = Pocilopora \
@@ -17,10 +17,10 @@ This post provides a journey through the entire experiment, including sample pre
 
 
 
-**1a) Samples we prepared for beamtime:**
+**1a) Samples measured (highlighted in yellow) with XRD, XRF, absorption --> RADIATION DAMAGE (KATREIN):**
 
 
-| Sample name  | Sample dimensions  |                |                            |                |
+| Species | Sample nomenclature |                |                            |                |
 |:------------:|:-------------------------:|:--------------:|:--------------------------:|:--------------:|
 | Pocillopora  | p500a (175 mu)            | p500b (340 mu) | p500c (376 mu)             |-------         |
 | Pocillopora  | <mark>p501a (306 mu)<mark>| p501b (298 mu) | <mark>p501c (180 mu)<mark> |-------         |
@@ -29,7 +29,19 @@ This post provides a journey through the entire experiment, including sample pre
 | Stylophora   | s504a (145 mu)            | s504b (216 mu) | s504c (343 mu)             |<mark>s504d (333 mu)<mark> |
 | Stylophora   | s505a (314 mu)            | 505b (256 mu)  | s505c (299 mu)             | <mark>s505d (167 mu)<mark>         |
 
-The samples we measured at MySpot with XRD and XRF are marked in yellow.
+
+**1b) Samples measured with XRD, XRF, absorption --> FLOW / NO FLOW (ISABELA):**
+
+| Species | Sample nomenclature |              
+|:------------:|:-------------------------:|
+|   | <mark>pg31b2<mark> |    
+|   | <mark>pg07b2<mark> |
+|   | <mark>pg11t2<mark>  |
+|   | <mark>pg31t2<mark> |
+
+
+
+
 
 **2) Raw sample cutting** \
     &#8594; Untreated corals were cut into 1-1.5 mm thick slices: \
@@ -85,7 +97,6 @@ In the end, the polishing machine is not that precise that I cut the samples wit
 
   Energy: 17 keV \
   beamsize: 50 microns\
-  SDD:
 
   Plan:
   1. Mapping the entire samples with a stepsize of 100 x 100 µm
@@ -117,6 +128,11 @@ Measured elements as part of background / beamline setup / contamination:
 
 
     XRD X-Ray diffraction (WAXS):
+
+  Energy: 17 keV \
+  beamsize: 50 microns
+  SSD:
+  Detector: Eiger 9M
 
 All .h5-files were transformed to .tiff for further evaluation using Fiji.
 
