@@ -103,10 +103,26 @@ In the end, the polishing machine is not that precise that I cut the samples wit
   2. choose two ROIs with a stepsize of 50 x 50 points (=highest possible resolution defined by beamsize) with 1s or 2s exposure time
   3. Irradiate several choosen spots over and over again, and collect XRD patterns (Debye rings) over time  
 
-  **4) Additional measurements after beamtime:**
-  Sample s504d for XRF to look into Magnesium (PTB beamline (Adrian))
+   **Close the Hutch:**
+   - press green button on the wall
+   - close door
+   - rotate key right beside the door and take it with your
+   - put key into beamline lights which shows green light if everything works well (MySpot (NOT BAMline!)) and rotate key 1/4 to the right   
+   - press leverage (Hebel) up and release. It will beep and every diode in that line should light up green now
 
-  **5) Evaluation**
+   **Open the Hutch:**
+   - rotate key from 0-->1 and take it with you to the pace right beside the door
+   - enter key and bring it to position 1
+   - press green button
+   - door will make a noise, you can open it
+
+  **5) Additional measurements after beamtime:**
+  1. Sample s504d for XRF to look into Magnesium (PTB beamline (Adrian))
+  2. Leica light microscopy
+  3. SEM-BEI
+  5. Laminography (Isabela)
+
+  **6) Evaluation**
 
     XRF FLUORESCENCE:
 
@@ -137,7 +153,7 @@ Measured elements as part of background / beamline setup / contamination:
 All .h5-files were transformed to .tiff for further evaluation using Fiji.
 
 
-    **6) XRD Integration from Ivo**
+    **7) XRD Integration from Ivo**
 
 Ivo only took one corundum for all the samples: NEEDS TO TAKE ALL CORUNDUMS LEFT AND RIGHT OF THE Samples
 
