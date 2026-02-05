@@ -116,6 +116,19 @@ In the end, the polishing machine is not that precise that I cut the samples wit
    - press green button
    - door will make a noise, you can open it
 
+    **Helpful commands:**
+   -   beamstop_out
+   - PAUSE/STOP: \
+    P [=pause] \
+    r [=resume]\
+    Strg + C [=der totale Abbruch]
+    - curs [= to go anywhere within ascan with motor] \
+     m [= move motor to that position]
+     q [= quit]
+    - wm kox [= where motor (position) kox]
+    - wm mz [= where motor (postition) mz]
+
+
   **5) Additional measurements after beamtime:**
   1. Sample s504d for XRF to look into Magnesium (PTB beamline (Adrian))
   2. Leica light microscopy
@@ -123,6 +136,11 @@ In the end, the polishing machine is not that precise that I cut the samples wit
   5. Laminography (Isabela)
 
   **6) Evaluation**
+
+    Transmission / Absorption (diode1):
+  - diode1 = absolute absorption, good calibration, gives photons / s
+  - cyber = transmission (not as good calibrated as beam + has to go to through air and through the sample --> absortion of both.)
+
 
     XRF FLUORESCENCE:
 
@@ -146,9 +164,15 @@ Measured elements as part of background / beamline setup / contamination:
     XRD X-Ray diffraction (WAXS):
 
   Energy: 17 keV \
-  beamsize: 50 microns
-  SSD:
-  Detector: Eiger 9M
+  beamsize: 50 microns \
+  SSD: \
+  Detector: Eiger 9M \
+  Diaphrame size: \
+  mz = 0 - 25 (window inner size = 24 mm)  
+  koi = -20 -0 - +25 (window inner size = 36 mm) \
+  --> Richtung -20: fährt man zur Wand
+
+
 
 All .h5-files were transformed to .tiff for further evaluation using Fiji.
 
