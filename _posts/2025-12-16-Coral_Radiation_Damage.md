@@ -9,6 +9,8 @@ This post provides a journey through the entire experiment, including sample pre
 
 ### Coral sample preparation: 200 micron thick embedded coral slices
 
+
+
 **1) Sample labeling** \
     &#8594; every sample was assigned with numbers: 500 - 505 \
     &#8594; every sample side: a, b, c, etc. \
@@ -49,15 +51,24 @@ This post provides a journey through the entire experiment, including sample pre
     &#8594; <u>Bandsaw (Name, company,location):</u>  
 
 
-**2) Embedding** \
-    &#8594; Embed these slices in pmma, filling the mold to the top. \
-    &#8594; Side A = bottom of embedding mold = side of puck with sample near surface \
-    &#8594; Side B = top of embedding mold = far from sample \
-    &#8594; End up with a puck, where thin slice of sample is at one end, and the rest is pmma. \
-    &#8594; <u>Embedding material:</u> \
-    &#8594; <u>Embedding melangerie:</u>
+**3) Embedding** \
+Each sample was potted in methyl-methacrylate (Technovit 4071, Kulzer GmbH, Germany). Firmly secured at the potted ends, samples were then sectioned cross-sectionally into ca. mm-thick sections. Each section was embedded individually (Technovit 4071, Kulzer GmbH, Germany), so as to infiltrate otherwise closed internal pores.
 
-**2) Polish side A** \
+  &#8594; Embed these slices in pmma, filling the mold to the top. \
+  &#8594; Side A = bottom of embedding mold = side of puck with sample near surface \
+  &#8594; Side B = top of embedding mold = far from sample \
+  &#8594; End up with a puck, where thin slice of sample is at one end, and the rest is pmma.
+
+
+**4a) Sample polishing short for paper** \
+    Embedded pucks containing the sample section were then ground to expose the coral skeleton material and polished (EXAKT 400 CS, EXAKT Advanced Technologies GmbH, Germany) on both sides, to produce 200-400 µm-thick highly polished plane-parallel slices. Specifically, blocks were first roughly ground down to ca. 500 um thick (800 grit), making sure that the coral skeleton was exposed on both sides of the puck. Then, each side was polished using the following protocol:
+    1.	1 min at 1000 grit with water
+    2.	1 min at 1200 grit with water
+    3.	3 minutes at 2500 grit with water
+    4.	3 minutes at 4000 grit with Na2CO3
+    All polishing steps were done with xx g weight. The final step at 4000 grit was done with Na2CO3 to prevent surface ACC dissolution (YUT Gong et al., PNAS 2012). Samples were then wiped (Kimtech wipe with Na2CO3), dried (pressurized air), and stored in a clean membrane box.
+
+**4b) Sample polishing in detail: Polish side A** \
     &#8594; Can work in batches of ~6 samples. \
     &#8594;	Polish side A (removes 0.1 mm): \
     1. Manually sand side B with 800 grit paper, just to make sure surface is clean and smooth and will stick well with tape. Wipe dust off with wet tissue and dry surface with compressed air duster. \
@@ -69,7 +80,7 @@ This post provides a journey through the entire experiment, including sample pre
       - 	3 min @ 2500 grit, 1x small weight \
       - 	3 min @ 4000 grit, 1x small weight
 
-**2) Polish side B**  
+**4c) Polish side B**  
     &#8594;removes 0.1 mm, Plastic rectangle thickness + 1 layer of tape = 2.2 mm &#8594; target thickness = 2.2 + 0.3 = 2.5mm \
     &#8594;	Use bandsaw to cut off excess pmma from side B, leaving pucks of ~1.5mm thick (with the coral slice inside). \
     &#8594;	Grind side B (800 grit, 2x small weitht + large weight) until sample is 0.3 mm thick (0.3 + 2.2 = 2.5 sample plastic tape unit). In polisher machine, can use the meter knob to set thickness at which polishing will stop. Make sure to zero without sample. \
@@ -85,11 +96,11 @@ In the end, the polishing machine is not that precise that I cut the samples wit
 
 
 
-  **3) Before beamtime measurements:**
+  **5) Before beamtime measurements:**
 
   Samples were measured with light microscopy
 
-  **4) At the beamtime:**
+  **6) At the beamtime:**
 
   Participants: Katrein Sauer, Paul Zaslansky, Isabela Vitienes, Shreya Ray
 
@@ -129,17 +140,17 @@ In the end, the polishing machine is not that precise that I cut the samples wit
     - wm mz [= where motor (postition) mz]
 
 
-  **5) Additional measurements after beamtime:**
+  **7) Additional measurements after beamtime:**
   1. Sample s504d for XRF to look into Magnesium (PTB beamline (Adrian))
   2. Leica light microscopy
   3. SEM-BEI
   5. Laminography (Isabela)
 
-  **6) Evaluation**
+  **8) Evaluation**
 
     Transmission / Absorption (diode1):
   - diode1 = absolute absorption, good calibration, gives photons / s
-  - cyber = transmission (not as good calibrated as beam + has to go to through air and through the sample --> absortion of both.)
+  - cyber = transmission (not as good calibrated as beam + has to go to through air and through the sample --> absortion of both. Therefore: transmission = air / sample)
 
 
     XRF FLUORESCENCE:
@@ -177,7 +188,7 @@ Measured elements as part of background / beamline setup / contamination:
 All .h5-files were transformed to .tiff for further evaluation using Fiji.
 
 
-    **7) XRD Integration from Ivo**
+    **9) XRD Integration from Ivo**
 
 Ivo only took one corundum for all the samples: NEEDS TO TAKE ALL CORUNDUMS LEFT AND RIGHT OF THE Samples
 
