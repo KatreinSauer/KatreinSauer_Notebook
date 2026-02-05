@@ -27,19 +27,19 @@ This post provides a journey through the entire experiment, including sample pre
 | Pocillopora  | p500a (175 mu)            | p500b (340 mu) | p500c (376 mu)             |-------         |
 | Pocillopora  | <mark>p501a (306 mu)<mark>| p501b (298 mu) | <mark>p501c (180 mu)<mark> |-------         |
 | Pocillopora  | p502a (176 mu)            | p502b          | p502c (160 mu)             |-------         |
-| Stylophora   | <mark>s503a (330 mu)<mark>| s503b (345 mu) | s503c (204 mu)             | s503d (333 mu) |
-| Stylophora   | s504a (145 mu)            | s504b (216 mu) | s504c (343 mu)             |<mark>s504d (333 mu)<mark> |
-| Stylophora   | s505a (314 mu)            | 505b (256 mu)  | s505c (299 mu)             | <mark>s505d (167 mu)<mark>         |
+| Stylophora Pistillata  | <mark>s503a (330 mu)<mark>| s503b (345 mu) | s503c (204 mu)             | s503d (333 mu) |
+| Stylophora Pistillata  | s504a (145 mu)            | s504b (216 mu) | s504c (343 mu)             |<mark>s504d (333 mu)<mark> |
+| Stylophora Pistiallata | s505a (314 mu)            | 505b (256 mu)  | s505c (299 mu)             | <mark>s505d (167 mu)<mark>         |
 
 
 **1b) Samples measured with XRD, XRF, absorption --> FLOW / NO FLOW (ISABELA):**
 
 | Species | Sample nomenclature |              
 |:------------:|:-------------------------:|
-|   | <mark>pg31b2<mark> |    
-|   | <mark>pg07b2<mark> |
-|   | <mark>pg11t2<mark>  |
-|   | <mark>pg31t2<mark> |
+| Pocillopora grandis  | <mark>pg31b2<mark> |    
+| Pocillopora grandis   | <mark>pg07b2<mark> |
+| Pocillopora grandis   | <mark>pg11t2<mark>  |
+| Pocillopora grandis   | <mark>pg31t2<mark> |
 
 
 
