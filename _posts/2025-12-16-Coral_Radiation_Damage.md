@@ -159,17 +159,17 @@ In the end, the polishing machine is not that precise that I cut the samples wit
 
   |              |calcium (Ca) | zinc (Zn) | strontium (Sr) |
   |:-------------|:-------:|------:|------:|
-  | channel [ROI]|  363 [1]|  [2] | [3] |
-  | Energy [keV] |  3.69   |  |  |
+  | channels [ROI]|  338-378 [1]| 823-863 [2] | 1340-1415 [3] |
+  | Energy [keV] |  3.69   | 8.638 | 14.165 |
 
 
 Measured elements as part of background / beamline setup / contamination:
 
 
-  |                   | Iron (Fe) | Arsen (As) | Cupper (Cu) | Beam        |
-  |:------------------|:---------:|-----------:|------------:|------------:|
-  | channel (maximum) |  |   |  ||
-  | Energy [keV]      | 6.35      | 10.5       | 12.6        | 17          |
+  |                   | Iron (Fe) | <mark>Arsen (As)<mark> | <mark>Lead (Pb<mark>)| Cupper (Cu) | Beam        |
+  |:------------------|:---------:|-----------:|------------:|------------:|------------:|
+  | channel (maximum) | 625 | <mark>1029 ???<mark>| <mark>1029 ???<mark>| 1230 | 1652 |
+  | Energy [keV]      | 6.35      | <mark>10.53<mark> | <mark>10.55<mark>      | 12.6        | 17          |
 
 
     XRD X-Ray diffraction (WAXS):
