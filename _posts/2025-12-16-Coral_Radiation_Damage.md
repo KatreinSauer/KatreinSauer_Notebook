@@ -171,6 +171,7 @@ Measured elements as part of background / beamline setup / contamination:
   | channel (maximum) | 625 | <mark>1029 ???<mark>| <mark>1029 ???<mark>| 1230 | 1652 |
   | Energy [keV]      | 6.35      | <mark>10.53<mark> | <mark>10.55<mark>      | 12.6        | 17          |
 
+   The arsen (K_alpha) and lead (L-line) energy are both included in one peack as this peak is broad enough to carry both. Therefore, it is not clear which element it really is exactly but most likely LEAD! 
 
     XRD X-Ray diffraction (WAXS):
 
