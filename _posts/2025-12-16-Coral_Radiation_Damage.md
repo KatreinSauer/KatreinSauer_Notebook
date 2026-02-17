@@ -173,6 +173,9 @@ Measured elements as part of background / beamline setup / contamination:
 
    The arsen (K_alpha) and lead (L-line) energy are both included in one peack as this peak is broad enough to carry both. Therefore, it is not clear which element it really is exactly but most likely LEAD!
 
+   From measurement set68 till set74: Here is a mistake in naming:
+    Instead of sample p501c, it actually is the sample s503a and must therefore be set68_s503a,...,set74_s503a!!! The same is true for XRD! 
+
     XRD X-Ray diffraction (WAXS):
 
   Energy: 17 keV \
@@ -188,6 +191,8 @@ Measured elements as part of background / beamline setup / contamination:
 
 All .h5-files were transformed to .tiff for further evaluation using Fiji.
 
+From measurement set68 till set74: Here is a mistake in naming:
+ Instead of sample p501c, it actually is the sample s503a and must therefore be set68_s503a,...,set74_s503a!!! The same is true for XRF!
 
     **9) XRD Integration from Ivo**
 
