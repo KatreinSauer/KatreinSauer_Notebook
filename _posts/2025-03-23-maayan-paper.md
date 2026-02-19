@@ -60,6 +60,24 @@ with Fiji:\
 
 
 ### XRD ###
+In order to check if aragonite crystal intensity will change with directions all possible peaks of the spectrum will be plotted into 2D aragonite images. The following peaks are used:
+
+| peak| channel   |  peak maximum | background |     
+|:---:|:---------:|:-------------:|-----------:|
+|(111)|  315-385  |  348  |
+|(021)|  385-445  |  417  |
+|(012)|  800-840  |  819  |
+|(200)|  999-1045 | 1022  |
+|(112)| 1120-1157 | 1140  |
+|(022)| 1158-1213 | 1182  |
+|(211)| 1338-1382 | 1361  |
+|(122)| 1450-1495 | 1475  |
+|(221)| 1630-1695 | 1667  |
+|(041)| 1800-1860 | 1830  |
+|(132)| 1910-1980 | 1949  |
+
+
+
 
 ### RAMAN paper figure ###
  ## Compare with ORIGIN:  peak width of peak with the highest intensity (number 1086). The peak width broadens the more the crystals (aragonite/calcite) lose the cristalinity and apear amorphous. I want to see if ACC is preesnt ##
