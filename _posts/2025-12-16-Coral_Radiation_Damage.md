@@ -164,7 +164,8 @@ In the end, the polishing machine is not that precise that I cut the samples wit
     --> T was determined with Fiji, looking for the highest intensity value within histogram and this is defined then as "100% transmission = 1 in formula":\
   a)  100% = 593751.44 \
   As -A = T - 1 and T = our image:\
-  with Fiji:\
+  with Fiji:
+
   &#8594; click on transmission image
   &#8594; process
   &#8594; math
