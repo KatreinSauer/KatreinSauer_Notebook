@@ -165,8 +165,7 @@ In the end, the polishing machine is not that precise that I cut the samples wit
   a)  100% = 593751.44 \
   As -A = T - 1 and T = our image:\
   with Fiji:\
-  &#859
-  4; click on transmission image
+  &#8594; click on transmission image
   &#8594; process
   &#8594; math
   &#8594; substract 593751.44
