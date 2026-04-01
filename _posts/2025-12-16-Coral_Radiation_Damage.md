@@ -155,6 +155,22 @@ In the end, the polishing machine is not that precise that I cut the samples wit
   - cyber = transmission (not as good calibrated as beam + has to go to through air and through the sample --> absortion of both. Therefore: transmission = air / sample)
 
 
+  **X-ray Absorption Images**
+
+   Transmission images from Spec-files (BESSY, found wihtin one of the last columns)
+
+   Transmission (T) transformed into Absorption (A):\
+    A = 1-T \
+    --> T was determined with Fiji, looking for the highest intensity value within histogram and this is defined then as "100% transmission = 1 in formula":\
+  a)  100% = 593751.44 \
+  As -A = T - 1 and T = our image:\
+  with Fiji:\
+  &#859
+  4; click on transmission image
+  &#8594; process
+  &#8594; math
+  &#8594; substract 593751.44
+  &#8594; afterwards multiply with (-1)
 
     XRF FLUORESCENCE:
 
