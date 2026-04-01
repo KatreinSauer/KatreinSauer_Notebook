@@ -149,7 +149,7 @@ In the end, the polishing machine is not that precise that I cut the samples wit
 
   **8) Evaluation**
 
-    Transmission / Absorption (diode1): 
+    Transmission / Absorption (diode1):
 
   - diode1 = absolute absorption, good calibration, gives photons / s
   - cyber = transmission (not as good calibrated as beam + has to go to through air and through the sample --> absortion of both. Therefore: transmission = air / sample)
