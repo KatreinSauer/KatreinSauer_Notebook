@@ -206,6 +206,18 @@ Measured elements as part of background / beamline setup / contamination:
   koi = -20 -0 - +25 (window inner size = 36 mm) \
   --> Richtung -20: fährt man zur Wand
 
+  CALIBRATION OF s504d_Corond_1\
+  Energy: 16.955983 keV\
+  Lamda: 0.731212 Angstroem\
+  Pixel size x, y: 75 x 75 microns²
+  SDD: 35.2569
+  Center X: 1619.94 pixels
+  Center Y: 1695.28 pixels
+  tilt a: -0.39392476 degrees
+  tilt b: -13.451278 degrees
+
+
+
 
 
 All .h5-files were transformed to .tiff for further evaluation using Fiji.
