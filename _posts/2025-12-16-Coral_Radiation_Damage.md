@@ -207,14 +207,14 @@ Measured elements as part of background / beamline setup / contamination:
   --> Richtung -20: fährt man zur Wand
 
   CALIBRATION OF s504d_Corond_1\
-  Energy: 16.955983 keV\
-  Lamda: 0.731212 Angstroem\
+  Energy: 16.9506007keV\
+  Lamda: 0.731444 Angstroem\
   Pixel size x, y: 75 x 75 microns²
-  SDD: 35.2569
-  Center X: 1619.94 pixels
+  SDD: 35.2452
+  Center X: 1619.92 pixels
   Center Y: 1695.28 pixels
-  tilt a: -0.39392476 degrees
-  tilt b: -13.451278 degrees
+  tilt a: -0.39506460 degrees
+  tilt b: -13.292978 degrees
 
 
 
