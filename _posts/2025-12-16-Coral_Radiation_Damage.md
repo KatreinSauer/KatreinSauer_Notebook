@@ -209,15 +209,23 @@ Measured elements as part of background / beamline setup / contamination:
   CALIBRATION OF s504d_Corond_1\
   Energy: 16.9506007keV\
   Lamda: 0.731444 Angstroem\
-  Pixel size x, y: 75 x 75 microns²
-  SDD: 35.2452
-  Center X: 1619.92 pixels
-  Center Y: 1695.28 pixels
-  tilt a: -0.39506460 degrees
+  Pixel size x, y: 75 x 75 microns²\
+  SDD: 35.2452 cm\
+  Center X: 1619.92 pixels\
+  Center Y: 1695.28 pixels\
+  tilt a: -0.39506460 degrees\
   tilt b: -13.292978 degrees
 
 
-
+  ALIBRATION OF s504d_Corond_2\
+  Energy: 16.951478keV\
+  Lamda: 0.731406 Angstroem\
+  Pixel size x, y: 75 x 75 microns²
+  SDD: 35.1977 cm
+  Center X: 1619.87 pixels
+  Center Y: 1695.34 pixels
+  tilt a: -0.39132528 degrees
+  tilt b: -13.171041 degrees
 
 
 All .h5-files were transformed to .tiff for further evaluation using Fiji.
