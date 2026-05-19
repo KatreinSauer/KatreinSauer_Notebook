@@ -225,7 +225,9 @@ Measured elements as part of background / beamline setup / contamination:
   Center X: 1619.87 pixels\
   Center Y: 1695.34 pixels\
   tilt a: -0.39132528 degrees\
-  tilt b: -13.171041 degrees\
+  tilt b: -13.171041 degrees
+
+  average SSD: 35.22145
 
 
 All .h5-files were transformed to .tiff for further evaluation using Fiji.
