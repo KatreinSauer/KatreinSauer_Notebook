@@ -227,7 +227,21 @@ Measured elements as part of background / beamline setup / contamination:
   tilt a: -0.39132528 degrees\
   tilt b: -13.171041 degrees
 
-  average SSD: 35.22145
+AVERAGE s504d Corund 1 and 2\
+Energy: 16.95103935\
+SSD: 35.22145\
+lamda: 0.731425\
+Center x: 1619.9\
+Center y: 1695.3\
+tilt a: -0.393 \
+tilt b: -13.25\
+
+Mask off:\
+Valid pixels\
+< 2000 \
+apply mask
+
+
 
 
 All .h5-files were transformed to .tiff for further evaluation using Fiji.
