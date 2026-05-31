@@ -241,6 +241,13 @@ Valid pixels\
 < 2000 \
 apply mask
 
+Calibrated SDD for s504d:\
+set03: kox = 3.5, SDD = 35.21159\
+set04: kox = 3.5, SDD = 35.2278097 \
+set05: kox = 3.2, SDD = 35.212053 \
+set06: 
+
+
 
 
 
