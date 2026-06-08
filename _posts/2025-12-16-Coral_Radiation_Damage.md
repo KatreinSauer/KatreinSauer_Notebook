@@ -269,17 +269,17 @@ set26: kox = -3.5,SDD = 35.2280414517683 \
 set27: kox = -3.4, SDD = 35.2275779914269 \
 set28: kox = -4.0, SDD = 35.22919998676829 \
 set29: kox = -4.4, SDD = 35.229895061426895 \
-set30: kox = -4.6, SDD = 35.230358521768295 
-
-
-
-
+set30: kox = -4.6, SDD = 35.230358521768295
 
 
 All .h5-files were transformed to .tiff for further evaluation using Fiji.
 
 From measurement set68 till set74: Here is a mistake in naming:
- Instead of sample p501c, it actually is the sample s503a and must therefore be set68_s503a,...,set74_s503a and also set76_s503a,...,set89_s503a!!! The same is true for XRF!
+ Instead of sample p501c, it actually is the sample s503a and must therefore be set68_s503a,...,set74_s503a and also set76_s503a,...,set89_s503a!!! The same is true for XRF! No damage visible in aragonite, i.e., no calcite was created.
+
+ ### Looking  into single damaging points
+
+ set03: SUM,MED, and MAX of 120 images at the beginning compared to 120 images at the end doesnt give any phase changes, nor creating a phase such as Calcite. Only when zooming in, there is a tiny peak where calcite is supposed to be expected. However, peak intensity does not change at all!!!
 
     **9) XRD Integration from Ivo**
 
