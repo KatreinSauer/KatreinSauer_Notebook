@@ -261,7 +261,7 @@ set18: kox = -4.1, SDD = 35.22919998676829 \
 set19: kox = -3.8, SDD = 35.22873652642689 \
 set20: kox = -4.4, SDD = 35.229895061426895 \
 set21: kox = 2.6, SDD = 35.21367557189031 \
-set22: kox = 2.6, SDD = 35.21367557189031 \
+set22: = 2D mesh \
 set23: kox = -0.3,SDD = 35.22039512097683 \
 set24: kox = 0.8, SDD = 35.21784634404634 \
 set25: kox = 0.3,SDD = 35.219004879023174 \
@@ -281,17 +281,32 @@ From measurement set68 till set74: Here is a mistake in naming:
 
  set03: SUM,MED, and MAX of 120 images at the beginning compared to 120 images at the end doesnt give any phase changes, nor creating a phase such as Calcite. Only when zooming in, there is a tiny peak where calcite is supposed to be expected. However, peak intensity does not change at all in terms of creating calcite!!!
 
- However, it might be the case that the intensity of the aragonite increases, as a result of radiation damage? Could it be possible, that the calcite is eradicaed as a result of radiation damage? 
+ However, it might be the case that the intensity of the aragonite increases, as a result of radiation damage? Could it be possible, that the calcite is eradicaed as a result of radiation damage?
 
- set02: Mapping \
- calcite-channels (104): \
+ ## set02: Mapping
+ calcite-channels \
+ (104): \
  center: 1924 \
  left: 1910 \
  right: 1940
 
- aragonite channels (111): \
- center:  
- Image pixel size: 111 x 66
+ aragonite channels
+
+ | Miller indices  | center | peakwidth|  left | right |
+ |:----------------|:------:|---------:|:----:|-----:|
+ | (111)           |   1700 |    40    | 1680 | 1720 |
+ | (021)           |   1770 |    60    | 1740 | 1800 |
+ | (012)           |   2175 |    50    | 2150 | 2200 |
+ | (200)           |   2380 |    50    | 2355 | 2405 |
+ | (032)           |   2458 |    34    | 2441 | 2475 |
+ | (112)           |   2495 |    40    | 2475 | 2515 |
+ | (022)           |   2541 |    50    | 2516 | 2566 |
+ | (211)           |   2717 |    44    | 2695 | 2739 |
+ | (122)           |   2830 |    50    | 2805 | 2855 |
+ | (221)           |   3028 |    60    | 2998 | 3058 |
+ | ()           |   3028 |    60    | 3160 | 3058 |
+
+
 
     **9) XRD Integration from Ivo**
 
