@@ -279,7 +279,19 @@ From measurement set68 till set74: Here is a mistake in naming:
 
  ### Looking  into single damaging points
 
- set03: SUM,MED, and MAX of 120 images at the beginning compared to 120 images at the end doesnt give any phase changes, nor creating a phase such as Calcite. Only when zooming in, there is a tiny peak where calcite is supposed to be expected. However, peak intensity does not change at all!!!
+ set03: SUM,MED, and MAX of 120 images at the beginning compared to 120 images at the end doesnt give any phase changes, nor creating a phase such as Calcite. Only when zooming in, there is a tiny peak where calcite is supposed to be expected. However, peak intensity does not change at all in terms of creating calcite!!!
+
+ However, it might be the case that the intensity of the aragonite increases, as a result of radiation damage? Could it be possible, that the calcite is eradicaed as a result of radiation damage? 
+
+ set02: Mapping \
+ calcite-channels (104): \
+ center: 1924 \
+ left: 1910 \
+ right: 1940
+
+ aragonite channels (111): \
+ center:  
+ Image pixel size: 111 x 66
 
     **9) XRD Integration from Ivo**
 
