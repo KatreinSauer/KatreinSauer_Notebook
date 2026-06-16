@@ -282,6 +282,7 @@ From measurement set68 till set74: Here is a mistake in naming:
  set03: SUM,MED, and MAX of 120 images at the beginning compared to 120 images at the end doesnt give any phase changes, nor creating a phase such as Calcite. Only when zooming in, there is a tiny peak where calcite is supposed to be expected. However, peak intensity does not change at all in terms of creating calcite!!!
 
  However, it might be the case that the intensity of the aragonite increases, as a result of radiation damage? Could it be possible, that the calcite is eradicaed as a result of radiation damage?
+ NO: SO FAR: The Intensity of aragonite as well as calcite increases over time, and then slightly seems to deminish and decreases.
 
  ## set02: Mapping
  calcite-channels \
@@ -298,7 +299,7 @@ From measurement set68 till set74: Here is a mistake in naming:
  | (021)           |   1770 |    60    | 1740 | 1800 |
  | (012)           |   2175 |    50    | 2150 | 2200 |
  | (200)           |   2380 |    50    | 2355 | 2405 |
- | (032)           |   2458 |    34    | 2441 | 2475 |
+ | (031)           |   2458 |    34    | 2441 | 2475 |
  | (112)           |   2495 |    40    | 2475 | 2515 |
  | (022)           |   2541 |    50    | 2516 | 2566 |
  | (211)           |   2717 |    44    | 2695 | 2739 |
