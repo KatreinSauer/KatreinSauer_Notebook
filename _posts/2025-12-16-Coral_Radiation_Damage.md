@@ -367,7 +367,7 @@ Center Y: 1695.35 pixels\
 tilt a: -0.39473863 degrees\
 tilt b: -14.416746 degrees
 
-Calibrated SDD for 503a damage:\
+Calibrated SDD for s503a damage:\
 
 set 68: kox = -4.15 SDD = 35.20556097540976 \
 set 69: kox = -3.54 SDD = 35.20465853640976 \
