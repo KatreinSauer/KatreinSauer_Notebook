@@ -206,7 +206,9 @@ Measured elements as part of background / beamline setup / contamination:
   koi = -20 -0 - +25 (window inner size = 36 mm) \
   --> Richtung -20: fährt man zur Wand
 
-  CALIBRATION OF s504d_Corond_1\
+  # CALIBRATING sample s504d
+   s504d_Corond_1
+
   Energy: 16.9506007keV\
   Lamda: 0.731444 Angstroem\
   Pixel size x, y: 75 x 75 microns²\
@@ -217,7 +219,8 @@ Measured elements as part of background / beamline setup / contamination:
   tilt b: -13.292978 degrees
 
 
-  ALIBRATION OF s504d_Corond_2\
+  s504d_Corond_2
+
   Energy: 16.951478keV\
   Lamda: 0.731406 Angstroem\
   Pixel size x, y: 75 x 75 microns²\
@@ -271,20 +274,78 @@ set28: kox = -4.0, SDD = 35.22919998676829 \
 set29: kox = -4.4, SDD = 35.229895061426895 \
 set30: kox = -4.6, SDD = 35.230358521768295
 
+# CALIBRATING sample p501c
+ p501c_Corond_1
+
+ Energy: 16.951594 keV\
+ Lamda: 0.731401 Angstroem\
+ Pixel size x, y: 75 x 75 microns²\
+ SDD: 35.2343 cm\
+ Center X: 1619.90 pixels\
+ Center Y: 1695.39 pixels\
+ tilt a: -0.39111405 degrees\
+ tilt b: -14.216970 degrees
+
+ p501c_Corond_2
+
+ Energy: 16.951797 keV\
+ Lamda: 0.731393 Angstroem\
+ Pixel size x, y: 75 x 75 microns²\
+ SDD: 35.2291 cm\
+ Center X: 1619.85 pixels\
+ Center Y: 1695.37 pixels\
+ tilt a: -0.39320343 degrees\
+ tilt b: -13.538319 degrees
+
+AVERAGE p501c Corund 1 and 2\
+
+Energy: 16.9516955 keV\
+Lamda: 0.731397 Angstroem\
+Pixel size x, y: 75 x 75 microns²\
+SDD: 35.2317 xxx FILL IN VALUE BELOW xxx cm\
+Center X: 1619.88 pixels\
+Center Y: 1695.38 pixels\
+tilt a: -0.39215874 degrees\
+tilt b: -13.8776445 degrees
+
+Calibrated SDD for p501c:\
+set 42: kox = 0.81 SDD = 35.231580000008 \
+set 43: kox = 0.91 SDD = 35.231500000012005 \
+set 44: kox = 0.99 SDD = 35.231500000012005 \
+set 45: kox = 1.12 SDD = 35.23142 \
+set 46: kox = 1.12 SDD = 35.23142 \
+set 47: kox = 1.23 SDD = 35.23142 \
+set 48: kox = 1.41 SDD = 35.23134 \
+set 49: 2d map \
+set 50: kox = 1.44 SDD = 35.23134\
+set 51: kox = 1.46 SDD = 35.231300000000005 \
+set 52: kox = 1.62 SDD = 35.231259992000005 \
+set 53: kox = 1.59 SDD = 35.231259992000005 \
+set 54: kox = 1.79 SDD = 35.23118 \
+set 55: kox = 1.90 SDD = 35.23114 \
+set 56: kox = 2.42 SDD = 35.23090000004 \
+set 57: kox = 1.08 SDD = 35.231459992000005 \
+set 58: kox = 1.30 SDD = 35.23138 \
+set 59: kox = 0.20 SDD = 35.23182000000401 \
+set 60: kox = -2.01 SDD = 35.23273999996 \
+set 61: kox = 2.24 SDD = 35.230980000040006 \
+
+
 
 All .h5-files were transformed to .tiff for further evaluation using Fiji.
 
 From measurement set68 till set74: Here is a mistake in naming:
  Instead of sample p501c, it actually is the sample s503a and must therefore be set68_s503a,...,set74_s503a and also set76_s503a,...,set89_s503a!!! The same is true for XRF! No damage visible in aragonite, i.e., no calcite was created.
 
- ### Looking  into single damaging points
+ ### Interpretation of data
+ Looking  into single damaging points
 
  set03: SUM,MED, and MAX of 120 images at the beginning compared to 120 images at the end doesnt give any phase changes, nor creating a phase such as Calcite. Only when zooming in, there is a tiny peak where calcite is supposed to be expected. However, peak intensity does not change at all in terms of creating calcite!!!
 
  However, it might be the case that the intensity of the aragonite increases, as a result of radiation damage? Could it be possible, that the calcite is eradicaed as a result of radiation damage?
  NO: SO FAR: The Intensity of aragonite as well as calcite increases over time, and then slightly seems to deminish and decreases.
 
- ## set02: Mapping
+ ## set02: 2D XRD-Mapping
  calcite-channels \
  (104): \
  center: 1924 \
@@ -308,6 +369,14 @@ From measurement set68 till set74: Here is a mistake in naming:
  | (041)           |   3192 |    70    | 3155 | 3225 |
  | (132)           |   3312 |    56    | 3284 | 3340 |
 
+## set03: Mapping DAMAGE Intensity changes of single spots over time
+
+| Miller indices  | center | peakwidth|  left | right |
+|:----------------|:------:|---------:|:-- --:|------:|
+| (111)  Ara      |   1102 |    40    | 1082 | 1122  |
+| (104)  Cal      |   1325 |    50    | 1300 | 1500  |
+
+FLuctuation of XRD intensities within single spots relate rather to beam fluctuation than to actual damage created by the beam.
 
 
     **9) XRD Integration from Ivo**
