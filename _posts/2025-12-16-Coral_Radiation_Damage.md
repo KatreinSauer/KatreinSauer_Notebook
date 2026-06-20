@@ -244,7 +244,8 @@ Valid pixels\
 < 2000 \
 apply mask
 
-Calibrated SDD for s504d:\
+Calibrated SDD for s504d damage:\
+
 set03: kox = 3.5, SDD = 35.21159\
 set04: kox = -3.5, SDD = 35.2278097 \
 set05: kox = 3.2, SDD = 35.212053 \
@@ -297,7 +298,7 @@ set30: kox = -4.6, SDD = 35.230358521768295
  tilt a: -0.39320343 degrees\
  tilt b: -13.538319 degrees
 
-AVERAGE p501c Corund 1 and 2\
+AVERAGE p501c Corund 1 and 2
 
 Energy: 16.9516955 keV\
 Lamda: 0.731397 Angstroem\
@@ -308,7 +309,8 @@ Center Y: 1695.38 pixels\
 tilt a: -0.39215874 degrees\
 tilt b: -13.8776445 degrees
 
-Calibrated SDD for p501c:\
+Calibrated SDD for p501c damage:
+
 set 42: kox = 0.81 SDD = 35.231580000008 \
 set 43: kox = 0.91 SDD = 35.231500000012005 \
 set 44: kox = 0.99 SDD = 35.231500000012005 \
@@ -322,7 +324,7 @@ set 51: kox = 1.46 SDD = 35.231300000000005 \
 set 52: kox = 1.62 SDD = 35.231259992000005 \
 set 53: kox = 1.59 SDD = 35.231259992000005 \
 set 54: kox = 1.79 SDD = 35.23118 \
-set 55: kox = 1.90 SDD = 35.23114 \
+set 55: kox = 1.90 SDD = 35.23114 \ CALCITE!!!!
 set 56: kox = 2.42 SDD = 35.23090000004 \
 set 57: kox = 1.08 SDD = 35.231459992000005 \
 set 58: kox = 1.30 SDD = 35.23138 \
@@ -330,6 +332,56 @@ set 59: kox = 0.20 SDD = 35.23182000000401 \
 set 60: kox = -2.01 SDD = 35.23273999996 \
 set 61: kox = 2.24 SDD = 35.230980000040006 \
 
+
+# CALIBRATING sample s503a
+s503a_Corond_1
+
+Energy: 16.947503 keV\
+Lamda: 0.731578 Angstroem\
+Pixel size x, y: 75 x 75 microns²\
+SDD: 35.2114 cm\
+Center X: 1619.63 pixels\
+Center Y: 1695.34 pixels\
+tilt a: -0.39548308 degrees\
+tilt b: -14.412529 degrees
+
+s503a_Corond_2
+
+Energy: 16.946407 keV\
+Lamda: 0.731625 Angstroem\
+Pixel size x, y: 75 x 75 microns²\
+SDD: 35.1929 cm\
+Center X: 1619.64 pixels\
+Center Y: 1695.36 pixels\
+tilt a: -0.39399418 degrees\
+tilt b: -14.420963 degrees
+
+AVERAGE s503a Corund 1 and 2
+
+Energy: 16.946955 keV\
+Lamda: 0.7316015 Angstroem\
+Pixel size x, y: 75 x 75 microns²\
+SDD: 35.20215 xxx FILL IN VALUE BELOW xxx cm\
+Center X: 1619.64 pixels\
+Center Y: 1695.35 pixels\
+tilt a: -0.39473863 degrees\
+tilt b: -14.416746 degrees
+
+Calibrated SDD for 503a damage:\
+
+set 68: kox = -4.15 SDD = 35.20556097540976 \
+set 69: kox = -3.54 SDD = 35.20465853640976 \
+set 70: kox = -3.23 SDD = 35.20420731690976 \
+set 71: kox = -2.82 SDD = 35.20420731690976 \
+set 72: kox = -2.84 SDD = 35.20420731690976 \
+set 73: kox = -1.65 SDD = 35.202853658500004 \
+set 74: kox = -2.12 SDD = 35.20330487790976 \
+set 75: 2D map
+set 76: kox = -2.04 SDD = 35.20330487790976 \
+set 77: kox = -0.54 SDD = 35.20195121949098 \
+set 78: kox = -0.01 SDD = 35.2015 \
+set 79: kox =  0.57 SDD = 35.201048780509026 \
+set 80: kox =  0.96 SDD = 35.200597561027074 \
 
 
 All .h5-files were transformed to .tiff for further evaluation using Fiji.
@@ -344,6 +396,9 @@ From measurement set68 till set74: Here is a mistake in naming:
 
  However, it might be the case that the intensity of the aragonite increases, as a result of radiation damage? Could it be possible, that the calcite is eradicaed as a result of radiation damage?
  NO: SO FAR: The Intensity of aragonite as well as calcite increases over time, and then slightly seems to deminish and decreases.
+
+ set55 sample p501c:
+ Here is calcite!!! Does it grow or disappear over time and radiation????
 
  ## set02: 2D XRD-Mapping
  calcite-channels \
