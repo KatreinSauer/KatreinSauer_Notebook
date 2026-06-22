@@ -370,7 +370,7 @@ tilt b: -14.416746 degrees
 Calibrated SDD for s503a damage:\
 
 set 68: kox = -4.15 SDD = 35.20556097540976 \
-set 69: kox = -3.54 SDD = 35.20465853640976 \
+set 69: kox = -3.54 SDD = 35.20465853640976 \ not a real pattern
 set 70: kox = -3.23 SDD = 35.20420731690976 \
 set 71: kox = -2.82 SDD = 35.20420731690976 \
 set 72: kox = -2.84 SDD = 35.20420731690976 \
@@ -382,6 +382,17 @@ set 77: kox = -0.54 SDD = 35.20195121949098 \
 set 78: kox = -0.01 SDD = 35.2015 \
 set 79: kox =  0.57 SDD = 35.201048780509026 \
 set 80: kox =  0.96 SDD = 35.200597561027074 \
+set 81: kox =  0.54 SDD = 35.201048780509026 \
+set 82: kox =  1.35 SDD = 35.2001463415 \
+set 83: kox =  4.07 SDD = 35.197890244090246\
+set 84: kox =  3.35 SDD = 35.198341463590246\
+set 85: kox =  2.51 SDD = 35.19924390259025\
+set 86: kox =  1.77 SDD = 35.19969512209025\
+set 87: kox =  0.85 SDD = 35.200597561027074\
+set 88: kox =  0.02 SDD = 35.2015\
+set 89: kox = -3.76 SDD = 35.20420731690976\
+
+
 
 
 All .h5-files were transformed to .tiff for further evaluation using Fiji.
