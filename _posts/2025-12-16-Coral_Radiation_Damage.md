@@ -334,7 +334,7 @@ set 61: kox = 2.24 SDD = 35.230980000040006 \
 
 
 # CALIBRATING sample s503a
-s503a_Corond_1
+s503a_Corund_1
 
 Energy: 16.947503 keV\
 Lamda: 0.731578 Angstroem\
@@ -345,7 +345,7 @@ Center Y: 1695.34 pixels\
 tilt a: -0.39548308 degrees\
 tilt b: -14.412529 degrees
 
-s503a_Corond_2
+s503a_Corund_2
 
 Energy: 16.946407 keV\
 Lamda: 0.731625 Angstroem\
@@ -394,7 +394,7 @@ set 89: kox = -3.76 SDD = 35.20420731690976\
 
 
 # CALIBRATING sample p501a
-p501a_Corond_1
+p501a_Corund_1
 
 Energy: 16.947001keV\
 Lamda: 0.731600 Angstroem\
@@ -406,7 +406,7 @@ tilt a: -0.39379773degrees\
 tilt b: -13.929300 degrees
 
 
-p501a_Corond_2
+p501a_Corund_2
 
 Energy: 16.948256 keV\
 Lamda: 0.731545 Angstroem\
@@ -428,7 +428,7 @@ Center Y: 1695.315 pixels\
 tilt a: -0.394843405 degrees\
 tilt b: -14.137848 degrees
 
-Calibrated SDD for s503a damage:\
+Calibrated SDD for p501a damage:\
 
 set  98: kox =  2.46 SDD = 35.217445720248094 \
 set  99: kox =  2.03 SDD = 35.21843810024809 \
@@ -436,11 +436,39 @@ set 100: kox =  1.97 SDD = 35.21843810024809 \
 set 101: kox =  1.41 SDD = 35.21992667 \
 set 102: kox =  0.49 SDD = 35.22240762002481 \
 set 103: kox =  0.47 SDD = 35.22240762002481 \
-set 104: kox =  0.96 SDD = 35.22091905007443 \
-set 105: kox =  0.96 SDD = 35.22091905007443 \
-set 106: kox = -0.90 SDD = 35.223896189975186 \
-set 107: kox = -1.25 SDD = 35.22637714 \
+set 104: kox =  0.96 SDD = 35.22091905007443 \ CALCITE!!!
+set 105: 2D map
+set 106: kox = -0.90 SDD = 35.223896189975186 \ no pattern/beside the sample?!
+set 107: kox = -1.25 SDD = 35.22637714 \ Calcite very little
 set 108: kox = -1.89 SDD = 35.227865709999996 \
+set 109: kox = -2.88 SDD = 35.2303466597519 \
+set 110: kox = -3.57 SDD = 35.2323314197519 \ kein pattern
+set 111: kox = -3.27 SDD = 35.2313390397519 \
+set 112: kox = -2.53 SDD = 35.2298504697519 \
+set 113: kox = -0.80 SDD = 35.22538475995038 \ Calcite!!! BIG PEAK
+set 114: kox = -2.34 SDD = 35.229354230132905 \
+set 115: kox = -3.72 SDD = 35.2328276097519 \
+set 116: kox = -1.32 SDD = 35.226873280381 \
+set 117: kox = -2.94 SDD = 35.2308428497519 \
+set 118: kox = -4.25 SDD = 35.233944037499995 \
+set 119: kox = -2.88 SDD = 35.2303466597519 \
+
+# CALIBRATING sample s505d
+
+s505d_Corund_1
+
+s505d_Corund_1
+
+AVERAGE s505d Corund 1 and 2
+
+Calibrated SDD for s505d damage:\
+
+
+# CALIBRATING sample setIsa02 - setIsa05
+CORUNDUMS
+
+Are these samples related to pg11t2???
+
 
 
 
