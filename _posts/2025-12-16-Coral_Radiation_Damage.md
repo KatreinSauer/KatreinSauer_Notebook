@@ -393,6 +393,55 @@ set 88: kox =  0.02 SDD = 35.2015\
 set 89: kox = -3.76 SDD = 35.20420731690976\
 
 
+# CALIBRATING sample p501a
+p501a_Corond_1
+
+Energy: 16.947001keV\
+Lamda: 0.731600 Angstroem\
+Pixel size x, y: 75 x 75 microns²\
+SDD: 35.2519 cm\
+Center X: 1619.59 pixels\
+Center Y: 1695.34pixels\
+tilt a: -0.39379773degrees\
+tilt b: -13.929300 degrees
+
+
+p501a_Corond_2
+
+Energy: 16.948256 keV\
+Lamda: 0.731545 Angstroem\
+Pixel size x, y: 75 x 75 microns²\
+SDD: 35.1998 cm\
+Center X: 1619.60 pixels\
+Center Y: 1695.29 ixels\
+tilt a: -0.39588908 degrees\
+tilt b: -14.346396 degrees
+
+AVERAGE p501a Corund 1 and 2
+
+Energy: 16.9476285 keV\
+Lamda: 0.731572 Angstroem\
+Pixel size x, y: 75 x 75 microns²\
+SDD: 35.222585 xxx FILL IN VALUE BELOW xxx cm\
+Center X: 1619.60  pixels\
+Center Y: 1695.315 pixels\
+tilt a: -0.394843405 degrees\
+tilt b: -14.137848 degrees
+
+Calibrated SDD for s503a damage:\
+
+set  98: kox =  2.46 SDD = 35.217445720248094 \
+set  99: kox =  2.03 SDD = 35.21843810024809 \
+set 100: kox =  1.97 SDD = 35.21843810024809 \
+set 101: kox =  1.41 SDD = 35.21992667 \
+set 102: kox =  0.49 SDD = 35.22240762002481 \
+set 103: kox =  0.47 SDD = 35.22240762002481 \
+set 104: kox =  0.96 SDD = 35.22091905007443 \
+set 105: kox =  0.96 SDD = 35.22091905007443 \
+set 106: kox = -0.90 SDD = 35.223896189975186 \
+set 107: kox = -1.25 SDD = 35.22637714 \
+set 108: kox = -1.89 SDD = 35.227865709999996 \
+
 
 
 All .h5-files were transformed to .tiff for further evaluation using Fiji.
