@@ -457,9 +457,38 @@ set 119: kox = -2.88 SDD = 35.2303466597519 \
 
 s505d_Corund_1
 
+Energy: 16.946088 keV\
+Lamda: 0.731639 Angstroem\
+Pixel size x, y: 75 x 75 microns²\
+SDD: 35.2679 cm\
+Center X: 1619.47 pixels\
+Center Y: 1695.33 pixels\
+tilt a: -0.39129060 degrees\
+tilt b: -14.342627 degrees
+
 s505d_Corund_1
 
+Energy: 16.942555 keV\
+Lamda: 0.731791 Angstroem\
+Pixel size x, y: 75 x 75 microns²\
+SDD: 35.2433 cm\
+Center X: 1619.50 pixels\
+Center Y: 1695.27 pixels\
+tilt a: -0.39803146 degrees\
+tilt b: -14.675397 degrees
+
 AVERAGE s505d Corund 1 and 2
+
+Energy: 16.9443215 keV\
+Lamda: 0.731715 Angstroem\
+Pixel size x, y: 75 x 75 microns²\
+SDD: 35.2556 cm\
+Center X: 1619.49 pixels\
+Center Y: 1695.30 pixels\
+tilt a: -0.39466103 degrees\
+tilt b: -14.509012 degrees
+
+
 
 Calibrated SDD for s505d damage:\
 
