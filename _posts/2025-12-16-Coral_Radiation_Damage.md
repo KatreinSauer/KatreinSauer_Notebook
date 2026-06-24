@@ -466,7 +466,7 @@ Center Y: 1695.33 pixels\
 tilt a: -0.39129060 degrees\
 tilt b: -14.342627 degrees
 
-s505d_Corund_1
+s505d_Corund_2
 
 Energy: 16.942555 keV\
 Lamda: 0.731791 Angstroem\
@@ -488,9 +488,23 @@ Center Y: 1695.30 pixels\
 tilt a: -0.39466103 degrees\
 tilt b: -14.509012 degrees
 
-
-
 Calibrated SDD for s505d damage:\
+
+set 125: kox =  -3.67 SDD = 35.25675644493705 \
+set 126: kox =  -3.67 SDD = 35.25675644493705 \
+set 127: kox =  -3.96 SDD = 35.25689385187385 \
+set 128: kox =  -4.30 SDD = 35.25752462187384 \
+set 129: kox =  -3.94 SDD = 35.2584 \
+set 130: kox =  -4.32 SDD = 35.25752462187384\
+set 131: kox =  -4.90 SDD = 35.25815539187384\
+set 132: kox =  -4.90 SDD = 35.25815539187384\
+set 133: kox =  -3.15 SDD = 35.25611439676945\
+set 134: kox =  -3.19 SDD = 35.25611439676945\
+set 135: kox =  -3.47 SDD = 35.25626308187385\
+set 136: kox =  -3.96 SDD = 35.257184460228245 \
+set 137: kox =  -2.68 SDD = 35.25568638147824 \
+
+
 
 
 # CALIBRATING sample setIsa02 - setIsa05
