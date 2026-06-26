@@ -505,7 +505,7 @@ set 136: kox =  -3.96 SDD = 35.257184460228245 \
 set 137: kox =  -2.68 SDD = 35.25568638147824 \
 set 138: kox =  -2.36 SDD = 35.25504433331064 \
 set 139: kox =  -2.42 SDD = 35.25525836618704 \
-set 140: kox =   2.20 SDD = 35.24932461212615 \
+set 140: kox =   2.20 SDD = 35.24932461212615 \ creating calcite?
 set 141: kox =   1.06 SDD = 35.250764130063196 \
 set 142: kox =  -0.75 SDD = 35.25310923197477 \
 set 143: kox =  -0.39 SDD = 35.25689385187385 \
@@ -518,8 +518,30 @@ set 146: kox =   0.86 SDD = 35.251192145379626 \
 # CALIBRATING sample setIsa02 - setIsa05
 CORUNDUMS
 
-Are these samples related to pg11t2???
+Are these samples related to pg31b2???
 
+# CALIBRATING sample setIsa14-pg11t
+CORUNDUM 1
+
+Energy: 16.943586 keV\
+Lamda: 0.731747 Angstroem\
+Pixel size x, y: 75 x 75 microns²\
+SDD: 35.2451 cm\
+Center X: 1619.45 pixels\
+Center Y: 1695.38 pixels\
+tilt a: -0.39448358 degrees\
+tilt b: -14.164142 degrees
+
+CORUNDUM 2
+
+Energy: 16.943612 keV\
+Lamda: 0.731746 Angstroem\
+Pixel size x, y: 75 x 75 microns²\
+SDD: 35.1849 cm\
+Center X: 1619.45 pixels\
+Center Y: 1695.35 pixels\
+tilt a: -0.39514888 degrees\
+tilt b: -14.367813 degrees
 
 
 
