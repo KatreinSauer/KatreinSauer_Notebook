@@ -577,7 +577,7 @@ Center Y: 1695.36 pixels\
 tilt a: -0.39342386 degrees\
 tilt b: -14.660060 degrees
 
-CORUNDUM 2
+Average sample pg31t2 CORUNDUM 1 und 2
 
 Energy: 16.9472625 keV\
 Lamda: 0.731588 Angstroem\
