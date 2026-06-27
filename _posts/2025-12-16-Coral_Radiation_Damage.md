@@ -554,8 +554,39 @@ Center Y: 1695.37 pixels\
 tilt a: -0.39466103 degrees\
 tilt b: -14.209012 degrees
 
+# CALIBRATING sample setIsa23-pg31t2
+CORUNDUM 1
 
+Energy: 16.949191 keV\
+Lamda: 0.731505 Angstroem\
+Pixel size x, y: 75 x 75 microns²\
+SDD: 35.2709 cm\ (It seems to be high (er) than usual, but still okay)
+Center X: 1619.34 pixels\
+Center Y: 1695.33 pixels\
+tilt a: -0.39427547 degrees\
+tilt b: -14.447052 degrees
 
+CORUNDUM 2
+
+Energy: 16.945334 keV\
+Lamda: 0.731671 Angstroem\
+Pixel size x, y: 75 x 75 microns²\
+SDD: 35.1922 cm\
+Center X: 1619.36 pixels\
+Center Y: 1695.36 pixels\
+tilt a: -0.39342386 degrees\
+tilt b: -14.660060 degrees
+
+CORUNDUM 2
+
+Energy: 16.9472625 keV\
+Lamda: 0.731588 Angstroem\
+Pixel size x, y: 75 x 75 microns²\
+SDD: 35.23155 cm\
+Center X: 1619.35 pixels\
+Center Y: 1695.35 pixels\
+tilt a: -0.393849665 degrees\
+tilt b: -14.553826 degrees
 
 
 All .h5-files were transformed to .tiff for further evaluation using Fiji.
