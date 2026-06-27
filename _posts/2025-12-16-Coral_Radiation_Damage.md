@@ -543,7 +543,7 @@ Center Y: 1695.35 pixels\
 tilt a: -0.39514888 degrees\
 tilt b: -14.367813 degrees
 
-AVERAGE setIsa05 Corund 1 and 2
+AVERAGE setIsa14 Corund 1 and 2
 
 Energy: 16.943599 keV\
 Lamda: 0.731715 Angstroem\
