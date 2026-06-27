@@ -543,6 +543,19 @@ Center Y: 1695.35 pixels\
 tilt a: -0.39514888 degrees\
 tilt b: -14.367813 degrees
 
+AVERAGE setIsa05 Corund 1 and 2
+
+Energy: 16.943599 keV\
+Lamda: 0.731715 Angstroem\
+Pixel size x, y: 75 x 75 microns²\
+SDD: 35.215 cm\
+Center X: 1619.45 pixels\
+Center Y: 1695.37 pixels\
+tilt a: -0.39466103 degrees\
+tilt b: -14.209012 degrees
+
+
+
 
 
 All .h5-files were transformed to .tiff for further evaluation using Fiji.
