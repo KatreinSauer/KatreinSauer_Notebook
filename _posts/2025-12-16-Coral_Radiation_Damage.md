@@ -537,7 +537,7 @@ Only Corundum top measurements: setIsa06 actually have corundum in it!!!
 
 Corundum TOP average:
 
-nergy: 16.953209 keV\
+Energy: 16.953209 keV\
 Lamda: 0.731332 Angstroem\
 Pixel size x, y: 75 x 75 microns²\
 SDD: 35.2419 cm\
@@ -545,6 +545,8 @@ Center X: 1619.53 pixels\
 Center Y: 1695.36 pixels\
 tilt a: -0.39902648 degrees\
 tilt b: -13.935506 degrees
+
+setIsa07: relative to all other peaks, the (012) peak is changing dramatically!!!
 
 # CALIBRATING sample pg11t2
 setIsa16 - setIsa21
@@ -665,6 +667,8 @@ From measurement set68 till set74: Here is a mistake in naming:
 
  However, it might be the case that the intensity of the aragonite increases, as a result of radiation damage? Could it be possible, that the calcite is eradicaed as a result of radiation damage?
  NO: SO FAR: The Intensity of aragonite as well as calcite increases over time, and then slightly seems to deminish and decreases.
+
+ setIsa07: relative to all other peaks, the (012) peak is changing dramatically!!!
 
  set55 sample p501c:
  Here is calcite!!! Does it grow or disappear over time and radiation????
