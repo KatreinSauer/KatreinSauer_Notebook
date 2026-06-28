@@ -206,6 +206,12 @@ Measured elements as part of background / beamline setup / contamination:
   koi = -20 -0 - +25 (window inner size = 36 mm) \
   --> Richtung -20: fährt man zur Wand
 
+# XRD Calibration with 2 Standards (Al2O3 = Corundum)
+
+Corundums were placed on left and right side of the sample during BESSY measurement.
+
+For all samples Corundum on both sides of the samples were calibrated and an average of the calibrated left and right Corundum was created in order to do azimuthal integration of the entire sample.
+
   # CALIBRATING sample s504d
    s504d_Corond_1
 
@@ -244,7 +250,7 @@ Valid pixels\
 < 2000 \
 apply mask
 
-Calibrated SDD for s504d damage:\
+Calibrated SDD for s504d damage:
 
 set03: kox = 3.5, SDD = 35.21159\
 set04: kox = -3.5, SDD = 35.2278097 \
@@ -324,13 +330,13 @@ set 51: kox = 1.46 SDD = 35.231300000000005 \
 set 52: kox = 1.62 SDD = 35.231259992000005 \
 set 53: kox = 1.59 SDD = 35.231259992000005 \
 set 54: kox = 1.79 SDD = 35.23118 \
-set 55: kox = 1.90 SDD = 35.23114 \ CALCITE!!!!
+set 55: kox = 1.90 SDD = 35.23114    CALCITE!!!! \
 set 56: kox = 2.42 SDD = 35.23090000004 \
 set 57: kox = 1.08 SDD = 35.231459992000005 \
 set 58: kox = 1.30 SDD = 35.23138 \
 set 59: kox = 0.20 SDD = 35.23182000000401 \
 set 60: kox = -2.01 SDD = 35.23273999996 \
-set 61: kox = 2.24 SDD = 35.230980000040006 \
+set 61: kox = 2.24 SDD = 35.230980000040006
 
 
 # CALIBRATING sample s503a
@@ -367,7 +373,7 @@ Center Y: 1695.35 pixels\
 tilt a: -0.39473863 degrees\
 tilt b: -14.416746 degrees
 
-Calibrated SDD for s503a damage:\
+Calibrated SDD for s503a damage:
 
 set 68: kox = -4.15 SDD = 35.20556097540976 \
 set 69: kox = -3.54 SDD = 35.20465853640976 \ not a real pattern
@@ -390,7 +396,7 @@ set 85: kox =  2.51 SDD = 35.19924390259025\
 set 86: kox =  1.77 SDD = 35.19969512209025\
 set 87: kox =  0.85 SDD = 35.200597561027074\
 set 88: kox =  0.02 SDD = 35.2015\
-set 89: kox = -3.76 SDD = 35.20420731690976\
+set 89: kox = -3.76 SDD = 35.20420731690976
 
 
 # CALIBRATING sample p501a
@@ -428,7 +434,7 @@ Center Y: 1695.315 pixels\
 tilt a: -0.394843405 degrees\
 tilt b: -14.137848 degrees
 
-Calibrated SDD for p501a damage:\
+Calibrated SDD for p501a damage:
 
 set  98: kox =  2.46 SDD = 35.217445720248094 \
 set  99: kox =  2.03 SDD = 35.21843810024809 \
@@ -436,22 +442,22 @@ set 100: kox =  1.97 SDD = 35.21843810024809 \
 set 101: kox =  1.41 SDD = 35.21992667 \
 set 102: kox =  0.49 SDD = 35.22240762002481 \
 set 103: kox =  0.47 SDD = 35.22240762002481 \
-set 104: kox =  0.96 SDD = 35.22091905007443 \ CALCITE!!!
-set 105: 2D map
-set 106: kox = -0.90 SDD = 35.223896189975186 \ no pattern/beside the sample?!
-set 107: kox = -1.25 SDD = 35.22637714 \ Calcite very little
+set 104: kox =  0.96 SDD = 35.22091905007443 CALCITE!!! \
+set 105: 2D map \
+set 106: kox = -0.90 SDD = 35.223896189975186  no pattern/beside the sample?! \
+set 107: kox = -1.25 SDD = 35.22637714  Calcite very little \
 set 108: kox = -1.89 SDD = 35.227865709999996 \
 set 109: kox = -2.88 SDD = 35.2303466597519 \
-set 110: kox = -3.57 SDD = 35.2323314197519 \ kein pattern
+set 110: kox = -3.57 SDD = 35.2323314197519  kein pattern \
 set 111: kox = -3.27 SDD = 35.2313390397519 \
 set 112: kox = -2.53 SDD = 35.2298504697519 \
-set 113: kox = -0.80 SDD = 35.22538475995038 \ Calcite!!! BIG PEAK
+set 113: kox = -0.80 SDD = 35.22538475995038  Calcite!!! BIG PEAK \
 set 114: kox = -2.34 SDD = 35.229354230132905 \
 set 115: kox = -3.72 SDD = 35.2328276097519 \
 set 116: kox = -1.32 SDD = 35.226873280381 \
 set 117: kox = -2.94 SDD = 35.2308428497519 \
 set 118: kox = -4.25 SDD = 35.233944037499995 \
-set 119: kox = -2.88 SDD = 35.2303466597519 \
+set 119: kox = -2.88 SDD = 35.2303466597519
 
 # CALIBRATING sample s505d
 
@@ -488,7 +494,7 @@ Center Y: 1695.30 pixels\
 tilt a: -0.39466103 degrees\
 tilt b: -14.509012 degrees
 
-Calibrated SDD for s505d damage:\
+Calibrated SDD for s505d damage:
 
 set 125: kox =  -3.67 SDD = 35.25675644493705 \
 set 126: kox =  -3.67 SDD = 35.25675644493705 \
@@ -505,22 +511,44 @@ set 136: kox =  -3.96 SDD = 35.257184460228245 \
 set 137: kox =  -2.68 SDD = 35.25568638147824 \
 set 138: kox =  -2.36 SDD = 35.25504433331064 \
 set 139: kox =  -2.42 SDD = 35.25525836618704 \
-set 140: kox =   2.20 SDD = 35.24932461212615 \ creating calcite?
+set 140: kox =   2.20 SDD = 35.24932461212615  creating calcite? \
 set 141: kox =   1.06 SDD = 35.250764130063196 \
 set 142: kox =  -0.75 SDD = 35.25310923197477 \
 set 143: kox =  -0.39 SDD = 35.25689385187385 \
 set 144: kox =   0.68 SDD = 35.25121692202523 \
 set 145: kox =  -0.64 SDD = 35.25290423172477 \
-set 146: kox =   0.86 SDD = 35.251192145379626 \
+set 146: kox =   0.86 SDD = 35.251192145379626
 
 
 
-# CALIBRATING sample setIsa02 - setIsa05
-CORUNDUMS
+# ISABELA Samples
 
-Are these samples related to pg31b2???
+For all samples Corundum on both sides of the samples were calibrated and an average of the calibrated left and right Corundum was created in order to do azimuthal integration of the entire sample.
 
-# CALIBRATING sample setIsa14-pg11t
+# CALIBRATING sample pg31b2
+
+CORUNDUMS low \
+ascans at mz position 27, 28, 29, 30
+
+Corundum top\
+ascan at mz position: 7.16
+
+Only Corundum top measurements: setIsa06 actually have corundum in it!!!
+
+Corundum TOP average:
+
+nergy: 16.953209 keV\
+Lamda: 0.731332 Angstroem\
+Pixel size x, y: 75 x 75 microns²\
+SDD: 35.2419 cm\
+Center X: 1619.53 pixels\
+Center Y: 1695.36 pixels\
+tilt a: -0.39902648 degrees\
+tilt b: -13.935506 degrees
+
+# CALIBRATING sample pg11t2
+setIsa16 - setIsa21
+
 CORUNDUM 1
 
 Energy: 16.943586 keV\
@@ -554,7 +582,7 @@ Center Y: 1695.37 pixels\
 tilt a: -0.39466103 degrees\
 tilt b: -14.209012 degrees
 
-# CALIBRATING sample setIsa23-pg31t2
+# CALIBRATING sample pg31t2
 CORUNDUM 1
 
 Energy: 16.949191 keV\
@@ -587,6 +615,42 @@ Center X: 1619.35 pixels\
 Center Y: 1695.35 pixels\
 tilt a: -0.393849665 degrees\
 tilt b: -14.553826 degrees
+
+# CALIBRATING sample pg11t2
+setIsa32
+
+CORUNDUM 1
+
+Energy: 16.949503 keV\
+Lamda: 0.731492 Angstroem\
+Pixel size x, y: 75 x 75 microns²\
+SDD: 35.2649 cm\
+Center X: 1619.44 pixels\
+Center Y: 1695.35 pixels\
+tilt a: -0.39416315 degrees\
+tilt b: -15.159632 degrees
+
+CORUNDUM 2
+
+Energy: 16.938442 keV\
+Lamda: 0.731969 Angstroem\
+Pixel size x, y: 75 x 75 microns²\
+SDD: 35.1842 cm\
+Center X: 1619.42 pixels\
+Center Y: 1695.33 pixels\
+tilt a: -0.39663311 degrees\
+tilt b: -14.551802 degrees
+
+Average sample pg11t2 CORUNDUM 1 und 2
+
+Energy: 16.9439725 keV\
+Lamda: 0.7317305 Angstroem\
+Pixel size x, y: 75 x 75 microns²\
+SDD: 35.22455 cm\
+Center X: 1619.43 pixels\
+Center Y: 1695.34 pixels\
+tilt a: -0.39539813 degrees\
+tilt b: -14.855717 degrees
 
 
 All .h5-files were transformed to .tiff for further evaluation using Fiji.
