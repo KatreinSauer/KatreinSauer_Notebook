@@ -108,7 +108,7 @@ In the end, the polishing machine is not that precise that I cut the samples wit
   Samples were measured within a diaphrame samdwiched within two yellow Kapton films / polyimide  films (Kapton-Folie / Polyimid-Folie, Imid-group: -CO-NH-CO- --> electric isolator, thermal stable and chemical- and radiation resistant).
 
   Energy: 17 keV \
-  beamsize: 50 microns\
+  beamsize: 50 microns
 
   Plan:
   1. Mapping the entire samples with a stepsize of 100 x 100 µm
@@ -213,7 +213,7 @@ Corundums were placed on left and right side of the sample during BESSY measurem
 For all samples Corundum on both sides of the samples were calibrated and an average of the calibrated left and right Corundum was created in order to do azimuthal integration of the entire sample.
 
   # CALIBRATING sample s504d
-   s504d_Corond_1
+   s504d_Corund_1
 
   Energy: 16.9506007keV\
   Lamda: 0.731444 Angstroem\
@@ -225,7 +225,7 @@ For all samples Corundum on both sides of the samples were calibrated and an ave
   tilt b: -13.292978 degrees
 
 
-  s504d_Corond_2
+  s504d_Corund_2
 
   Energy: 16.951478keV\
   Lamda: 0.731406 Angstroem\
@@ -282,7 +282,7 @@ set29: kox = -4.4, SDD = 35.229895061426895 \
 set30: kox = -4.6, SDD = 35.230358521768295
 
 # CALIBRATING sample p501c
- p501c_Corond_1
+ p501c_Corund_1
 
  Energy: 16.951594 keV\
  Lamda: 0.731401 Angstroem\
@@ -293,7 +293,7 @@ set30: kox = -4.6, SDD = 35.230358521768295
  tilt a: -0.39111405 degrees\
  tilt b: -14.216970 degrees
 
- p501c_Corond_2
+ p501c_Corund_2
 
  Energy: 16.951797 keV\
  Lamda: 0.731393 Angstroem\
@@ -546,7 +546,9 @@ Center Y: 1695.36 pixels\
 tilt a: -0.39902648 degrees\
 tilt b: -13.935506 degrees
 
-setIsa07: relative to all other peaks, the (012) peak is changing dramatically!!!
+setIsa07: relative to all other peaks, the (012) peak is changing dramatically!!! And also some others at the end of the diffraction pattern. --> crazy texture???
+
+setIsa08 shows Calcite at the very beginning of the measurement / sample.
 
 # CALIBRATING sample pg11t2
 setIsa16 - setIsa21
@@ -663,15 +665,19 @@ From measurement set68 till set74: Here is a mistake in naming:
  ### Interpretation of data
  Looking  into single damaging points
 
- set03: SUM,MED, and MAX of 120 images at the beginning compared to 120 images at the end doesnt give any phase changes, nor creating a phase such as Calcite. Only when zooming in, there is a tiny peak where calcite is supposed to be expected. However, peak intensity does not change at all in terms of creating calcite!!!
+ set03: SUM,MED, and MAX of 120 images at the beginning compared to 120 images at the end does not give any phase changes, nor creating a phase such as Calcite. Only when zooming in, there is a tiny peak where calcite is supposed to be expected. However, peak intensity does not change at all in terms of creating calcite!!!
 
- However, it might be the case that the intensity of the aragonite increases, as a result of radiation damage? Could it be possible, that the calcite is eradicaed as a result of radiation damage?
- NO: SO FAR: The Intensity of aragonite as well as calcite increases over time, and then slightly seems to deminish and decreases.
-
- setIsa07: relative to all other peaks, the (012) peak is changing dramatically!!!
+ However, it might be the case that the intensity of the aragonite increases, as a result of radiation damage? Could it be possible, that the calcite is eradicated as a result of radiation damage?
+ NO: SO FAR: The Intensity of aragonite as well as calcite increases over time, and then slightly seems to diminish and decreases.
 
  set55 sample p501c:
  Here is calcite!!! Does it grow or disappear over time and radiation????
+
+ setIsa07: relative to all other peaks, the (012) peak is changing dramatically!!!
+
+ setIsa08: shows calcite at the very beginning of the measurement / top of the sample.
+
+
 
  ## set02: 2D XRD-Mapping
  calcite-channels \
