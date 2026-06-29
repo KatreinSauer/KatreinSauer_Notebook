@@ -662,7 +662,32 @@ All .h5-files were transformed to .tiff for further evaluation using Fiji.
 From measurement set68 till set74: Here is a mistake in naming:
  Instead of sample p501c, it actually is the sample s503a and must therefore be set68_s503a,...,set74_s503a and also set76_s503a,...,set89_s503a!!! The same is true for XRF! No damage visible in aragonite, i.e., no calcite was created.
 
- ### Interpretation of data
+ # XRD Data Evaluation
+
+ ### 2D XRD  mapping of entire sample
+
+ To identify:
+
+ a) Aragonite (111) \
+ b) Calcite (104)
+
+ ### Showing texture (specific orientation) of mineral crystals
+
+ By choosing one sample of each Species
+
+ a) Pocillopora Verrucosa \
+ b) Stylophora Pistillata
+
+ and within these samples, one 'zoom-in' area each sample (50 x 50 µm) was chosen to 2D map all kinds of peaks which are related to certain Miller Indices and therefore to a certain orientation of the crystal.
+
+ ### Quantifification of mineral versus amorphous content
+
+ a) weighting (with RUFF database) individual diffraction peaks within the entire XRD pattern --> (111) = 100 % \
+ b) Compare entire mineral content (adding all weighted mineral parts from a) ) to transmission / absorption image: Subtract one another?
+
+
+
+ # Interpretation of data
  Looking  into single damaging points
 
  set03: SUM,MED, and MAX of 120 images at the beginning compared to 120 images at the end does not give any phase changes, nor creating a phase such as Calcite. Only when zooming in, there is a tiny peak where calcite is supposed to be expected. However, peak intensity does not change at all in terms of creating calcite!!!
