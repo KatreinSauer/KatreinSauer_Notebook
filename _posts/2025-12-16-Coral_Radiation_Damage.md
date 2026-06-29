@@ -687,29 +687,17 @@ From measurement set68 till set74: Here is a mistake in naming:
 
 
 
- # Interpretation of data
- Looking  into single damaging points
-
- set03: SUM,MED, and MAX of 120 images at the beginning compared to 120 images at the end does not give any phase changes, nor creating a phase such as Calcite. Only when zooming in, there is a tiny peak where calcite is supposed to be expected. However, peak intensity does not change at all in terms of creating calcite!!!
-
- However, it might be the case that the intensity of the aragonite increases, as a result of radiation damage? Could it be possible, that the calcite is eradicated as a result of radiation damage?
- NO: SO FAR: The Intensity of aragonite as well as calcite increases over time, and then slightly seems to diminish and decreases.
-
- set55 sample p501c:
- Here is calcite!!! Does it grow or disappear over time and radiation????
-
- setIsa07: relative to all other peaks, the (012) peak is changing dramatically!!!
-
- setIsa08: shows calcite at the very beginning of the measurement / top of the sample.
-
-
 
  ## set02: 2D XRD-Mapping
- calcite-channels \
- (104): \
- center: 1924 \
- left: 1910 \
- right: 1940
+
+ calcite-channels
+
+ | Miller indices  | center | peakwidth|  left | right |
+ |:----------------|:------:|---------:|:----:|-----:|
+ | (104)           |   1924 |    30    | 1910 | 1940 |
+
+
+
 
  aragonite channels
 
@@ -735,7 +723,7 @@ From measurement set68 till set74: Here is a mistake in naming:
 | (111)  Ara      |   1102 |    40    | 1082 | 1122  |
 | (104)  Cal      |   1325 |    50    | 1300 | 1500  |
 
-FLuctuation of XRD intensities within single spots relate rather to beam fluctuation than to actual damage created by the beam.
+Fluctuation of XRD intensities within single spots relate rather to beam fluctuation than to actual damage created by the beam.
 
 
     **9) XRD Integration from Ivo**
@@ -745,3 +733,21 @@ Ivo only took one corundum for all the samples: NEEDS TO TAKE ALL CORUNDUMS LEFT
 INTEGRATED "CALCITE" IMAGES ACTUALLY BELONG TO AN ARAGONITE PEAK!!!
 
 We see already huge and very few single calcite peaks (~ 1µm-range?!)
+
+
+
+
+# Interpretation of data
+Looking  into single damaging points
+
+set03: SUM,MED, and MAX of 120 images at the beginning compared to 120 images at the end does not give any phase changes, nor creating a phase such as Calcite. Only when zooming in, there is a tiny peak where calcite is supposed to be expected. However, peak intensity does not change at all in terms of creating calcite!!!
+
+However, it might be the case that the intensity of the aragonite increases, as a result of radiation damage? Could it be possible, that the calcite is eradicated as a result of radiation damage?
+NO: SO FAR: The Intensity of aragonite as well as calcite increases over time, and then slightly seems to diminish and decreases.
+
+set55 sample p501c:
+Here is calcite!!! Does it grow or disappear over time and radiation????
+
+setIsa07: relative to all other peaks, the (012) peak is changing dramatically!!!
+
+setIsa08: shows calcite at the very beginning of the measurement / top of the sample.
