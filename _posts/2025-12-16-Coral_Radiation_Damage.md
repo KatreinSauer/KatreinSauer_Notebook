@@ -521,7 +521,7 @@ set 146: kox =   0.86 SDD = 35.251192145379626
 
 
 
-# ISABELA Samples
+# ISA Samples
 
 For all samples Corundum on both sides of the samples were calibrated and an average of the calibrated left and right Corundum was created in order to do azimuthal integration of the entire sample.
 
@@ -662,9 +662,11 @@ All .h5-files were transformed to .tiff for further evaluation using Fiji.
 From measurement set68 till set74: Here is a mistake in naming:
  Instead of sample p501c, it actually is the sample s503a and must therefore be set68_s503a,...,set74_s503a and also set76_s503a,...,set89_s503a!!! The same is true for XRF! No damage visible in aragonite, i.e., no calcite was created.
 
- # XRD Data Evaluation
+# XRD Data Evaluation
 
- ### 2D XRD  mapping of entire sample
+## Damage-experiment samples
+
+### 2D XRD  mapping of entire sample
 
  To identify:
 
@@ -687,8 +689,7 @@ From measurement set68 till set74: Here is a mistake in naming:
 
 
 
-
- ## set02: 2D XRD-Mapping
+## set02: 2D XRD-Mapping
 
  calcite-channels
 
@@ -724,6 +725,23 @@ From measurement set68 till set74: Here is a mistake in naming:
 | (104)  Cal      |   1325 |    50    | 1300 | 1500  |
 
 Fluctuation of XRD intensities within single spots relate rather to beam fluctuation than to actual damage created by the beam.
+
+## Isa-samples
+
+### 2D XRD  mapping of entire samples:
+
+ Pocillopora grandis
+
+ To identify:
+
+ a) Aragonite (111) \
+ b) Calcite (104)
+
+### Showing texture (specific orientation) of mineral crystals
+
+ For every Pocillopora grandis sample:
+
+All peaks were 2D mapped which are related to certain Miller Indices and therefore to a certain orientation of the crystal.
 
 
     **9) XRD Integration from Ivo**
