@@ -719,12 +719,48 @@ From measurement set68 till set74: Here is a mistake in naming:
 
 ## set03: Mapping DAMAGE Intensity changes of single spots over time
 
-| Miller indices  | center | peakwidth|  left | right |
-|:----------------|:------:|---------:|:-- --:|------:|
-| (111)  Ara      |   1102 |    40    | 1082 | 1122  |
-| (104)  Cal      |   1325 |    50    | 1300 | 1500  |
+| Miller indices  | center | peak width| left | right |
+|:----------------|:------:|----------:|:----:|------:|
+| (111)  Ara      |   1102 |    40     | 1082 | 1122  |
+| (104)  Cal      |   1325 |    50     | 1300 | 1500  |
 
 Fluctuation of XRD intensities within single spots relate rather to beam fluctuation than to actual damage created by the beam.
+
+## set 2D mapping of sample (overview) p501c
+
+aragonite channels
+
+| Miller indices  | center | peak width|  left | right |
+|:----------------|:------:|---------:|:----:|-----:|
+| (111)           |  1101  |    40    | 1080 | 1120 |
+
+
+
+
+## set95 2D mapping of sample (overview) p501a
+
+aragonite channels
+
+| Miller indices  | center | peak width|  left | right |
+|:----------------|:------:|---------:|:-----:|------:|
+| (111)           |  1102  |    40    | 1075  | 1125 |
+
+## set96 2D mapping of sample (overview high resolution) p501a
+
+aragonite channels
+
+| Miller indices  | center | peak width|  left | right |
+|:----------------|:------:|----------:|:-----:|------:|
+| (111)           |  1102  |     40    |  1075 |  1125 |
+
+## set97 2D mapping of sample (zoom-inhigh resolution) p501a
+
+aragonite channels
+
+| Miller indices  | center | peak width|  left | right |
+|:----------------|:------:|----------:|:-----:|------:|
+| (111)           |  1101  |     40    |  1075 |  1125 |
+
 
 ## Isa-samples
 
