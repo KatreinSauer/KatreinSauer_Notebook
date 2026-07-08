@@ -726,7 +726,7 @@ From measurement set68 till set74: Here is a mistake in naming:
 
 Fluctuation of XRD intensities within single spots relate rather to beam fluctuation than to actual damage created by the beam.
 
-## set 2D mapping of sample (overview) p501c
+## set 39, 40, 41, 49 2D mapping of sample (overview) p501c
 
 aragonite channels
 
@@ -735,6 +735,13 @@ aragonite channels
 | (111)           |  1101  |    40    | 1080 | 1120 |
 
 
+## set65 2D mapping of sample (overview) s503a
+
+aragonite channels
+
+| Miller indices  | center | peak width|  left | right |
+|:----------------|:------:|---------:|:-----:|------:|
+| (111)           |  1101  |    40    | 1075  | 1125  |
 
 
 ## set95 2D mapping of sample (overview) p501a
@@ -747,11 +754,17 @@ aragonite channels
 
 ## set96 2D mapping of sample (overview high resolution) p501a
 
-aragonite channels
+aragonite and calcite channels
 
 | Miller indices  | center | peak width|  left | right |
 |:----------------|:------:|----------:|:-----:|------:|
-| (111)           |  1102  |     40    |  1075 |  1125 |
+| ara (111)       |  1102  |     40    |  1075 |  1125 |
+| ara (111) BG 1  |  1137  |     26    |  1124 |  1150 |
+| ara (111) BG 2  |  1062  |     26    |  1049 |  1075 |
+| cal (104)       |  1325  |     50    |  1300 |  1350 |
+| cal (104) BG 1  |  1265  |     50    |  1240 |  1290 |
+| cal (104) BG 2  |  1390  |     50    |  1365 |  1415|
+
 
 ## set97 2D mapping of sample (zoom-inhigh resolution) p501a
 
@@ -760,6 +773,14 @@ aragonite channels
 | Miller indices  | center | peak width|  left | right |
 |:----------------|:------:|----------:|:-----:|------:|
 | (111)           |  1101  |     40    |  1075 |  1125 |
+
+## set122 2D mapping of sample (zoom-in lr resolution) s505d
+
+aragonite channels
+
+| Miller indices  | center | peak width|  left | right |
+|:----------------|:------:|----------:|:-----:|------:|
+| (111)           |  1099  |     40    |  1075 |  1125 |
 
 
 ## Isa-samples
@@ -779,6 +800,40 @@ aragonite channels
 
 All peaks were 2D mapped which are related to certain Miller Indices and therefore to a certain orientation of the crystal.
 
+
+# 2D mapping of sample pg11t2
+## setIsa16
+
+aragonite channels
+
+| Miller indices  | center | peak width|  left | right |
+|:----------------|:------:|----------:|:-----:|------:|
+| (111)           |  1103  |     40    |  1073 |  1123 |
+| (021)           |  1173  |     40    |  1053 |  1193 |
+| (012)           |  1578  |     40    |  1656 |  1600 |
+| (200)           |  1783  |     50    |  1758 |  1802 |
+| (031)           |  1860  |     34    |  1758 |  1877 |
+| (112)           |  1901  |     32    |  1885 |  1917 |
+| (022)           |  1942  |     50    |  1917 |  1967 |
+| (211)           |  2123  |     44    |  2101 |  2145 |
+| (122)           |  2238  |     44    |  2216 |  2260 |
+| (221)           |  2432  |     60    |  2402 |  2462 |
+| (041)           |  2596  |     60    |  2566 |  2626 |
+| (132)           |  2715  |     60    |  2685 |  2745 |
+
+
+
+ ### setIsa17
+ ### setIsa18
+ ### setIsa19
+ ### setIsa20
+ ### setIsa21
+ ### setIsa32
+
+Aragonite channels:
+The same channels related to Miller indices were used as in setIsa16.
+
+In order to have appropriate 2D images of each of those peaks, the background was subtracted. 2D images of the same peak width of the respective peaks were chosen.
 
     **9) XRD Integration from Ivo**
 
