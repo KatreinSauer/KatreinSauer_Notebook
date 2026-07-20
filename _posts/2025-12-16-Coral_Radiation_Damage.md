@@ -151,6 +151,16 @@ In the end, the polishing machine is not that precise that I cut the samples wit
 
     Transmission / Absorption (diode1):
 
+  ### How to read the Spec file:
+  -  AS-IC = current from ionization chamber, during the measurement and has therefore good statistics.
+
+  - ionch1 = ionchamber, measured short, statistics not good, but in units of photons per seconds (ph/s) on the ionization chamber before the sample. Although this ionchamber makes more sense to use in order to estimate intensity, the diode1 is calibrated from PTB.
+
+  - diode1 = measured short, statistics not good, but in units of photons per seconds (ph/s),  on the ionization chamber at the diode behind the sample. Calibrated by PTB and with the energies we used this is the better option to estimate intensity provided there is nothing in the beam.
+
+  Wenn ich das Spec in Gnumeric lade, die Werte mit kox beginnen, dann sind die Werte, die in der Counter-Spalte sind (8, Counter, 9), die eigentlichen ionch1-Werte.
+
+
   - diode1 = absolute absorption, good calibration, gives photons / s
   - cyber = transmission (not as good calibrated as beam + has to go to through air and through the sample --> absortion of both. Therefore: transmission = air / sample)
 
@@ -689,15 +699,17 @@ From measurement set68 till set74: Here is a mistake in naming:
 
 
 
-## set02: 2D XRD-Mapping
+## set02: 2D XRD-Mapping - s504d
 
  calcite-channels
 
  | Miller indices  | center | peakwidth|  left | right |
  |:----------------|:------:|---------:|:----:|-----:|
  | (104)           |   1924 |    30    | 1910 | 1940 |
+ | (104) BG1       |   1850 |    30    | 1835 | 1865 |
+ | (104) BG2       |   1965 |    30    | 1950 | 1980 |
 
-
+k
 
 
  aragonite channels
@@ -705,6 +717,8 @@ From measurement set68 till set74: Here is a mistake in naming:
  | Miller indices  | center | peakwidth|  left | right |
  |:----------------|:------:|---------:|:----:|-----:|
  | (111)           |   1700 |    40    | 1680 | 1720 |
+ | (111) BG1       |   1837 |    26    | 1824 | 1850 |
+ | (111) BG2       |   1637 |    26    | 1614 | 1640 |
  | (021)           |   1770 |    60    | 1740 | 1800 |
  | (012)           |   2175 |    50    | 2150 | 2200 |
  | (200)           |   2380 |    50    | 2355 | 2405 |
@@ -734,6 +748,21 @@ aragonite channels
 |:----------------|:------:|---------:|:----:|-----:|
 | (111)           |  1101  |    40    | 1080 | 1120 |
 
+
+## set552D mapping of damage point in sample p501c
+
+ channels
+
+| Miller indices  | center | peak width|  left | right |
+|:----------------|:------:|---------:|:-----:|------:|
+| (104)           |  1325  |     50   | 1300  | 1350 |
+| (104) BG1       |  1390  |     50   | 1365  | 1415 |
+| (104) BG2       |  1275  |     50   | 1250  | 1300 |
+
+
+
+## set104, set107 2D mapping of damage point in sample p501a
+THE INTENSITY DOES NOT CHANGE!
 
 ## set65 2D mapping of sample (overview) s503a
 
@@ -774,6 +803,26 @@ aragonite channels
 |:----------------|:------:|----------:|:-----:|------:|
 | (111)           |  1101  |     40    |  1075 |  1125 |
 
+## set113 2D mapping of damage point in sample p501a
+
+ channels
+
+| Miller indices  | center | peak width|  left | right |
+|:----------------|:------:|---------:|:-----:|------:|
+| (104)           |  1325  |     50   | 1300  | 1350 |
+| (104) BG1       |  1390  |     50   | 1365  | 1415 |
+| (104) BG2       |  1275  |     50   | 1250  | 1300 |
+
+## set104, set107 2D mapping of damage point in sample p501a
+THE INTENSITY DOES NOT CHANGE!
+
+| Miller indices  | center | peak width|  left | right |
+|:----------------|:------:|---------:|:-----:|------:|
+| (104)           |  1322  |     30   | 1307  | 1337 |
+| (104) BG1       |  1353  |     30   | 1338  | 1368 |
+| (104) BG2       |  1285  |     30   | 1270  | 1300 |
+
+
 ## set122 2D mapping of sample (zoom-in lr resolution) s505d
 
 aragonite channels
@@ -781,6 +830,33 @@ aragonite channels
 | Miller indices  | center | peak width|  left | right |
 |:----------------|:------:|----------:|:-----:|------:|
 | (111)           |  1099  |     40    |  1075 |  1125 |
+
+
+## set123 2D mapping of sample (overview high resolution) s505d
+
+ channels
+
+| Miller indices  | center | peak width|  left | right |
+|:----------------|:------:|----------:|:-----:|------:|
+| ara (111)       |  1099  |     40    |  1075 |  1125 |
+| ara (111) BG 1  |  1135  |     26    |  1122 |  1148 |
+| ara (111) BG 2  |  1060  |     26    |  1047 |  1073 |
+| cal (104)       |  1323  |     50    |  1298 |  1348 |
+| cal (104) BG 1  |  1263  |     50    |  1238 |  1288 |
+| cal (104) BG 2  |  1388  |     50    |  1363 |  1413 |
+
+## Looking into all CALCITE peaks (200-300 measurements at the same position), if the intensity over time changes:
+
+sample p501c:\
+set 55
+
+sample p501a\
+set104\
+set107\
+set113
+
+sample s505d\
+set140
 
 
 ## Isa-samples
