@@ -88,6 +88,9 @@ In order to check if aragonite crystal intensity will change with directions all
  b) Take the sum in 4) and devide it by total transmission
 
 
+Hintergrund gemessen in allen 3 chosen areas per image (averaged) in a stack:\
+Images, Stack, Plot z-axis profile.
+
 
 ### RAMAN paper figure ###
  ## Compare with ORIGIN:  peak width of peak with the highest intensity (number 1086). The peak width broadens the more the crystals (aragonite/calcite) lose the cristalinity and apear amorphous. I want to see if ACC is preesnt ##
