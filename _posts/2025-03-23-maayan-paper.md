@@ -62,20 +62,30 @@ with Fiji:\
 ### XRD ###
 In order to check if aragonite crystal intensity will change with directions all possible peaks of the spectrum will be plotted into 2D aragonite images. The following peaks are used:
 
-| peak| channel       |  peak maximum | background   | peak maximum |
-|:---:|:-------------:|:-------------:|:------------:|:------------:|
-|(111)|  315-385 (70) |  348          | 450-500 (50) |  475         |
-|(021)|  385-445 (60) |  417          | 450-500 (50) |  475         |
-|(012)|  800-840 (40) |  820          | 850-900 (50) |  875         |
-|(200)|  999-1045 (46)| 1022          | 850-900 (50) |  875         |  
-|(112)| 1120-1160 (40)| 1140          |1220-1270 (50)| 1245         |
-|(022)| 1158-1213 (55)| 1182          |1220-1270 (50)| 1245         |
-|(211)| 1338-1382 (44)| 1360          |1220-1270 (50)| 1245         |
-|(122)| 1450-1495 (46)| 1474          |1510-1560 (50)| 1535         |
-|(221)| 1630-1695 (65)| 1667          |1510-1560 (50)| 1535         |
-|(041)| 1800-1860 (60)| 1830          |1730-1780 (50)| 1755         |
-|(132)| 1910-1980 (70)| 1948          |2000-2030 (30)| 2015         |
+| peak| Ruff weighted intensity |channel       |  peak maximum | background   | peak maximum |
+|:---:|:-------------:|:-------------:|:------------:|:------------:|:------------:|
+|(111)|100|  315-385 (70) |  348          | 450-500 (50) |  475         |
+|(021)|58.60|  385-445 (60) |  417          | 450-500 (50) |  475         |
+|(012)| 54.22|  800-840 (40) |  820          | 850-900 (50) |  875         |
+|(200)|17.78|  999-1045 (46)| 1022          | 850-900 (50) |  875         |  
+|(112)|41.44| 1120-1160 (40)| 1140          |1220-1270 (50)| 1245         |
+|(022)|20.08| 1158-1213 (55)| 1182          |1220-1270 (50)| 1245         |
+|(211)|14.15| 1338-1382 (44)| 1360          |1220-1270 (50)| 1245         |
+|(122) ((220) in RUFF)| 21.42| 1450-1495 (46)| 1474          |1510-1560 (50)| 1535         |
+|(221)|73.06| 1630-1695 (65)| 1667          |1510-1560 (50)| 1535         |
+|(041)|31.76| 1800-1860 (60)| 1830          |1730-1780 (50)| 1755         |
+|(132)|29.94| 1910-1980 (70)| 1948          |2000-2030 (30)| 2015         |
 
+### Weighting XRD peak intensities based on RUFF database
+
+1) All 11 peaks were plotted into an 2D images \
+2) All 2D images were divided by the Ruff weighted intensities, where the aragonite (111) intensity relates to 1, (021) relates to 0.5860, ... .\
+3) removing the background: \
+a) In diffraction 2D- and absorption images: go for 3 spots in each single image. use the same spots in each 2d image of ever peak, measure (m) or, plot (k) to get out a values, average them and then subtract the background value from the image\
+4) Sum XRD with Fiji: Images to Stacks, z-project, sum
+5) Determine the "amorphous content": \
+ a) Take the sum in 4) and devide it by total absorption
+ b) Take the sum in 4) and devide it by total transmission
 
 
 
