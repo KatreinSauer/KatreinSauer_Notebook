@@ -81,7 +81,7 @@ In order to check if aragonite crystal intensity will change with directions all
 1) All 11 peaks were plotted into an 2D images \
 2) All 2D images were divided by the Ruff weighted intensities, where the aragonite (111) intensity relates to 1, (021) relates to 0.5860, ... .\
 3) removing the background: \
-a) In diffraction 2D- and absorption images: go for 3 spots in each single image. use the same spots in each 2d image of ever peak, measure (m) or, plot (k) to get out a values, average them and then subtract the background value from the image\
+ In diffraction 2D- and absorption images: go for 3 spots in each single image. use the same spots in each 2d image of ever peak, measure (m) or, plot (k) to get out a values, average them and then subtract the background value from the image\
 4) Sum XRD with Fiji: Images to Stacks, z-project, sum
 5) Determine the "amorphous content": \
  a) Take the sum in 4) and devide it by total absorption
