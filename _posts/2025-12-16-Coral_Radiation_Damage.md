@@ -16,7 +16,7 @@ This post provides a journey through the entire experiment, including sample pre
     &#8594; every sample side: a, b, c, etc. \
     &#8594; p = Pocilopora \
     &#8594; s = Stylophora
-
+m
 
 
 **1a) Samples measured (highlighted in yellow) with XRD, XRF, absorption --> RADIATION DAMAGE (KATREIN):**
@@ -739,6 +739,14 @@ k
 | (104)  Cal      |   1325 |    50     | 1300 | 1500  |
 
 Fluctuation of XRD intensities within single spots relate rather to beam fluctuation than to actual damage created by the beam.
+
+## set 22 2D mapping of sample (overview) s504d
+| Miller indices  | center | peak width| left | right |
+|:----------------|:------:|----------:|:----:|------:|
+| (111)  Ara      |   1700 |    40     | 1680 | 1720  |
+|        BG1      |   1630 |    40     | 1610 | 1650
+|        BG2      |   1840 |    40     | 1820 | 1860  |
+
 
 ## set 39, 40, 41, 49 2D mapping of sample (overview) p501c
 
