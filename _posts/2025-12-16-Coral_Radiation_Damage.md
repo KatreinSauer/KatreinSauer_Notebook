@@ -936,10 +936,11 @@ set22 = zoom-in image: kox = -4.75 - -3.14, mz = 16.5 - 14.8\
 set04 = point inside set22 for radiation and aragonite does not create calcite, exposure time 7200 s. Irradiated point: kox = -3.49, mz = 16.5
 
 ## Sample p501c (Pocillopora sp.):
-set40 = overview image \
-set41 = zoom in: kox = 0.8 - 1.4, mz = 13 - 14
+set40 = overview image 
 
-Stepsize: 50 µm \
+set41 = zoom in: kox = 0.8 - 1.4, mz = 13 - 14 \
+Stepsize: 0.05 = 50 µm
+
 set42: kox = 0.80791998, mz = 13.031875 \
 set43: kox = 0.90569998, mz = 13.18875 \
 set44: kox = 0.98717998, mz = 13.3455 \
