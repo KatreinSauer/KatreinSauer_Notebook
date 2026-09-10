@@ -709,7 +709,7 @@ From measurement set68 till set74: Here is a mistake in naming:
  | (104) BG1       |   1850 |    30    | 1835 | 1865 |
  | (104) BG2       |   1965 |    30    | 1950 | 1980 |
 
-k
+
 
 
  aragonite channels
@@ -744,7 +744,7 @@ Fluctuation of XRD intensities within single spots relate rather to beam fluctua
 | Miller indices  | center | peak width| left | right |
 |:----------------|:------:|----------:|:----:|------:|
 | (111)  Ara      |   1700 |    40     | 1680 | 1720  |
-|        BG1      |   1630 |    40     | 1610 | 1650
+|        BG1      |   1620 |    40     | 1600 | 1640  |
 |        BG2      |   1840 |    40     | 1820 | 1860  |
 
 
@@ -927,6 +927,26 @@ INTEGRATED "CALCITE" IMAGES ACTUALLY BELONG TO AN ARAGONITE PEAK!!!
 
 We see already huge and very few single calcite peaks (~ 1µm-range?!)
 
+
+# Paper Figures
+
+## Sample s504d (Stylophora pistillata):
+set02 = overview image \
+set22 = zoom-in image: kox = -4.75 - -3.14, mz = 16.5 - 14.8\
+set04 = point inside set22 for radiation and aragonite does not create calcite, exposure time 7200 s. Irradiated point: kox = -3.49, mz = 16.5
+
+## Sample p501c (Pocillopora sp.):
+set40 = overview image \
+set41 = zoom in: kox = 0.8 - 1.4, mz = 13 - 14
+
+Stepsize: 50 µm \
+set42: kox = 0.80791998, mz = 13.031875 \
+set43: kox = 0.90569998, mz = 13.18875 \
+set44: kox = 0.98717998, mz = 13.3455 \
+set45: kox = 1.11758,    mz = 13.519875 \
+set46: kox = 1.11758,    mz = 13.65925 \
+set47: kox = 1.23166,    mz = 13.694125 \
+set48: kox = 1.41092,    mz = 13.763875
 
 
 
