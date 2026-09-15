@@ -750,11 +750,16 @@ Fluctuation of XRD intensities within single spots relate rather to beam fluctua
 
 ## set 39, 40, 41, 49 2D mapping of sample (overview) p501c
 
-aragonite channels
+aragonite  and calcite channels
 
 | Miller indices  | center | peak width|  left | right |
 |:----------------|:------:|---------:|:----:|-----:|
-| (111)           |  1101  |    40    | 1080 | 1120 |
+| (111)           |  1102  |    40    | 1080 | 1120 |
+| (111)    BG1    |  1222  |    40    | 1202 | 1242 |
+| (111)    BG2    |  1042  |    40    | 1017 | 1057 |
+| (104)           |  1324  |    20    | 1314 | 1334 |
+| (104)    BG1    |  1383  |    20    | 1373 | 1393 |
+| (104)    BG2    |  1285  |    20    | 1275 | 1295 |
 
 
 ## set552D mapping of damage point in sample p501c
@@ -936,7 +941,7 @@ set22 = zoom-in image: kox = -4.75 - -3.14, mz = 16.5 - 14.8\
 set04 = point inside set22 for radiation and aragonite does not create calcite, exposure time 7200 s. Irradiated point: kox = -3.49, mz = 16.5
 
 ## Sample p501c (Pocillopora sp.):
-set40 = overview image 
+set40 = overview image
 
 set41 = zoom in: kox = 0.8 - 1.4, mz = 13 - 14 \
 Stepsize: 0.05 = 50 µm
