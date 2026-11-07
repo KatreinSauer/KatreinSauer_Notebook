@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BESSY MySpot 05-11 January 2026
-category: [ RADIATION DAMAGE ON CORALS ]
+category: [ RADIATION DAMAGE ON WET and DRY CORALS ]
 tags: [ Pocilopora and Stylophora ]
 ---
 
@@ -22,7 +22,7 @@ m
 **1a) Samples measured (highlighted in yellow) with XRD, XRF, absorption --> RADIATION DAMAGE (KATREIN):**
 
 
-| Species | Sample nomenclature |                |                            |                |
+| DRY Species | Sample nomenclature |                |                            |                |
 |:------------:|:-------------------------:|:--------------:|:--------------------------:|:--------------:|
 | Pocillopora  | p500a (175 mu)            | p500b (340 mu) | p500c (376 mu)             |-------         |
 | Pocillopora  | <mark>p501a (306 mu)<mark>| p501b (298 mu) | <mark>p501c (180 mu)<mark> |-------         |
@@ -30,6 +30,12 @@ m
 | Stylophora Pistillata  | <mark>s503a (330 mu)<mark>| s503b (345 mu) | s503c (204 mu)             | s503d (333 mu) |m
 | Stylophora Pistillata  | s504a (145 mu)            | s504b (216 mu) | s504c (343 mu)             |<mark>s504d (333 mu)<mark> |
 | Stylophora Pistiallata | s505a (314 mu)            | 505b (256 mu)  | s505c (299 mu)             | <mark>s505d (167 mu)<mark>         |
+
+| WET Species | Sample nomenclature | thickness|             
+|:------------:|:---------------:|:----------------:|
+| Stylophora pistillata  | <mark>EST5m003<mark> |  |   
+| Pocillopora sp.   | <mark>POp500<mark> | |
+
 
 
 **1b) Samples measured with XRD, XRF, absorption --> FLOW / NO FLOW (ISABELA):**
@@ -205,7 +211,15 @@ Measured elements as part of background / beamline setup / contamination:
    From measurement set68 till set74: Here is a mistake in naming:
     Instead of sample p501c, it actually is the sample s503a and must therefore be set68_s503a,...,set74_s503a, and also set76_s503a,...,set89_s503a!!! The same is true for XRD!
 
-    XRD X-Ray diffraction (WAXS):
+
+ # X-ray fluorescence - magnesium - at PTB beamline (Adrian)
+
+
+
+
+
+
+  # XRD X-Ray diffraction (WAXS):
 
   Energy: 17 keV \
   beamsize: 50 microns \
@@ -216,7 +230,30 @@ Measured elements as part of background / beamline setup / contamination:
   koi = -20 -0 - +25 (window inner size = 36 mm) \
   --> Richtung -20: fährt man zur Wand
 
-# XRD Calibration with 2 Standards (Al2O3 = Corundum)
+# WET samples: XRD Calibration with 2 Standards (Al2O3 = Corundum)
+EST5m003
+
+Energy: 17.933156 keV \
+Lamda: 0.6913685 Angstroem\
+Pixel size x, y: 75 x 75 microns²\
+SDD: 37.3302 cm\
+Center X: 1624.64 pixels\
+Center Y: 1716.38 pixels\
+tilt a: -0.392 degrees\
+tilt b: -15.8967515 degrees
+
+POp500
+
+Energy: 17.942697 keV \
+Lamda: 0.691001 Angstroem\
+Pixel size x, y: 75 x 75 microns²\
+SDD: 37.3102 cm\
+Center X: 1624.73 pixels\
+Center Y: 1716.33 pixels\
+tilt a: -0.392185405 degrees\
+tilt b: -16.045098 degrees
+
+# DRY samples: XRD Calibration with 2 Standards (Al2O3 = Corundum)
 
 Corundums were placed on left and right side of the sample during BESSY measurement.
 
