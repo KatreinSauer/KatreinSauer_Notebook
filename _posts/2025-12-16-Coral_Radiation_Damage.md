@@ -253,6 +253,30 @@ Center Y: 1716.33 pixels\
 tilt a: -0.392185405 degrees\
 tilt b: -16.045098 degrees
 
+p501c DRY paperHEART
+
+Energy: 17.9470265 keV \
+Lamda: 0.690834 Angstroem\
+Pixel size x, y: 75 x 75 microns²\
+SDD: 37.3102 cm\
+Center X: 1624.73 pixels\
+Center Y: 1716.33 pixels\
+tilt a: -0.39338102 degrees\
+tilt b: -16.362601 degrees
+
+EST5m001  & EST5m002
+
+Energy: 17.937992 keV \
+Lamda: 0.691182 Angstroem\
+Pixel size x, y: 75 x 75 microns²\
+SDD: 37.2922 cm\
+Center X: 1624.72 pixels\
+Center Y: 1716.27 pixels\
+tilt a: -0.39338102 degrees\
+tilt b: -16.362601 degrees
+
+set65: What on earth am I measuring here? The XRD pattern looks different. Maybe impurities? Needs to be checked!
+
 # DRY samples: XRD Calibration with 2 Standards (Al2O3 = Corundum)
 
 Corundums were placed on left and right side of the sample during BESSY measurement.
