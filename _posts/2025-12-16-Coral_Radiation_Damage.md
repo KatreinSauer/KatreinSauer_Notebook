@@ -264,7 +264,7 @@ Center Y: 1716.33 pixels\
 tilt a: -0.39338102 degrees\
 tilt b: -16.362601 degrees
 
-EST5m001  & EST5m002
+EST5m001 & EST5m002
 
 Energy: 17.937992 keV \
 Lamda: 0.691182 Angstroem\
@@ -274,6 +274,18 @@ Center X: 1624.72 pixels\
 Center Y: 1716.27 pixels\
 tilt a: -0.39338102 degrees\
 tilt b: -16.362601 degrees
+
+POp501
+
+Energy: 17.93641 keV \
+Lamda: 0.691243 Angstroem\
+Pixel size x, y: 75 x 75 microns²\
+SDD: 37.3045 cm\
+Center X: 1624.70 pixels\
+Center Y: 1716.24 pixels\
+tilt a: -0.394178395 degrees\
+tilt b: -16.4658855 degrees
+
 
 set65: What on earth am I measuring here? The XRD pattern looks different. Maybe impurities? Needs to be checked!
 
